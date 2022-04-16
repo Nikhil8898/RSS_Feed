@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Rss Feed</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <% if (messages.success) { %>
+      <p class="alert alert-success mt-4"><%- messages.success %></p>
+    <% } %>  
+    <br>
+    <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Title</th>
+      <th scope="col">Link</th>
+      <th scope="col">Description</th>
+      <th scope="col">PubDate</th>
+      <th scope="col">Keyword</th>
+   
+    </tr>
+  </thead>
+  <tbody>
+    <% if(data.length){
+   
+    for(var i = 0; i< data.length; i++) {%>  
+    <tr>
+      <th scope="row"><%= (i+1) %></th>
+      <td><%= data[i].Title%></td>
+      <td><%= data[i].Link%></td>
+      <td><%= data[i].Description%></td>
+      <td><%= data[i].PubDate%></td>
+      <td><%= data[i].Keyword%></td>
+    </tr>
+    <% }
+             
+     }else{ %>
+         <tr>
+            <td colspan="3">No Feed</td>
+         </tr>    
+      <% } %>    
+    
+  </tbody>
+  </table>
+  </body>
+  </html>

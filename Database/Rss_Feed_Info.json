@@ -1,0 +1,1801 @@
+[{
+  "_id": {
+    "$oid": "620563d9f8061bb9786aa75e"
+  },
+  "Link": "https://www.coindesk.com/policy/2022/02/08/bitfinex-hack-laundering-suspects-released-on-bond/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/8lFW4rBShi-RSG2UVQBXLGL83h4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LNLI5QLO6NG5TADGCWZES2H4SY.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Judge Stops Release of Bitfinex Hack Laundering Suspects",
+  "Description": "Attorneys for Ilya Lichtenstein and Heather Morgan claimed their clients' innocence in court today. The two are charged with money laundering and conspiracy to defraud in connection with the 2016 Bitfinex hack."
+},{
+  "_id": {
+    "$oid": "620563dbf8061bb9786aa760"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/08/first-mover-asia-crypto-prices-finish-largely-in-the-red/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/kMsW7fjF9l9V90Y_Bdn4nNNKuTw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/2TGXAH675VHYFFXLRH7KOA5NRU.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "First Mover Asia: Crypto Prices Finish Largely in the Red",
+  "Description": "Bitcoin fell early on but had recovered by the end of the U.S. trading day; ether drops slightly."
+},{
+  "_id": {
+    "$oid": "620563dbf8061bb9786aa762"
+  },
+  "Link": "https://www.coindesk.com/policy/2022/02/08/coinbase-files-to-form-a-pac-ahead-of-2022-midterms/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/iDTOHWPIPHDAs_aM6M25M7m02cA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JLA2TCHBINFSNNF6VNZH3HHPKA.jpeg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Coinbase Files to Form a PAC Ahead of 2022 Midterms",
+  "Description": "Crypto firms are vying for influence in D.C."
+},{
+  "_id": {
+    "$oid": "620563dcf8061bb9786aa764"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/08/terra-wants-to-spend-40m-on-a-mystery-sports-deal-we-think-its-with-this-mlb-team/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/BzfPlT5uGZvjlGU7r0h9QibM3uI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Q6YGX5G5GZERPAALMPANW4IPTI.jpeg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Terra Wants to Spend $40M on a Mystery Sports Deal. We Think It’s With This MLB Team",
+  "Description": "A CoinDesk reporter turns internet sleuth to crack the team name Do Kwon won’t identify."
+},{
+  "_id": {
+    "$oid": "620563ddf8061bb9786aa766"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/08/market-wrap-cryptocurrencies-pull-back-in-light-trading/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/EL6D73ibIon3c8he8sk5rIGdsx8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/PJXGQOWMQ5B5PBNRZ5KAKPNE3Y.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Market Wrap: Cryptocurrencies Pull Back in Light Trading",
+  "Description": "Bitcoin (BTC) and other cryptos declined on Tuesday after US officials seized billions worth of BTC from a 2016 Bitfinex exchange hack. Despite the recent price chop, investor sentiment is improving, which points to limited downside over the short-term."
+},{
+  "_id": {
+    "$oid": "620563ddf8061bb9786aa768"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/08/like-genghis-khan-but-with-more-pizzazz-what-we-know-about-the-accused-bitfinex-money-launderers/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/gV7tLfIfGRumJdlBvn2z1KNt1hA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HP7KSYLYYZDODEJ3APNS7U36YY.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "'Like Genghis Khan, but With More Pizzazz': What We Know About the Accused Bitfinex Money Launderers",
+  "Description": "Federal officials alleged Ilya Lichtenstein and Heather Morgan kept 2,000 crypto wallet addresses and their corresponding seed phrases in a spreadsheet stored on a cloud storage service. Here's what we know about the couple."
+},{
+  "_id": {
+    "$oid": "620563def8061bb9786aa76b"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/08/coinlist-aims-to-reduce-miners-capital-costs-with-low-collateral-filecoin-loans/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/9vFqtV4ByhJ9HZH4aSqRN2io43w=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/OQ7RZMW2RBBXTI4BNYWQDRNJGA.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "CoinList Aims to Reduce Miners’ Capital Costs With Low Collateral Filecoin Loans",
+  "Description": "The new lending service will require miners to put up as little as 10% collateral of the total loan value, helping them scale more quickly."
+},{
+  "_id": {
+    "$oid": "620563dff8061bb9786aa76d"
+  },
+  "Link": "https://www.coindesk.com/layer2/2022/02/08/your-staking-rewards-are-still-taxable/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/9xGmSsNbbK4-Yo9NFh1_Jpif12U=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/O3VJXL4HA5BHPL4MFZUC2UWYO4.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Your Staking Rewards Are Still Taxable",
+  "Description": "The IRS’s recent decision to refund $3,000 to a Nashville couple does not protect staking rewards from future taxation."
+},{
+  "_id": {
+    "$oid": "620563e0f8061bb9786aa770"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/08/bitcoin-stalls-near-resistance-lower-support-at-40k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/mXlAN8iaTyw87_nBG3np2Okry74=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/63OIEPCZHNHOZHTUP6MG37IDTI.png",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Bitcoin Stalls Near Resistance; Lower Support at $40K",
+  "Description": "Bitcoin (BTC) is declining after approaching the $45K resistance zone. Lower support at $40K could stabilize the pullback, which occurred on low trading volume."
+},{
+  "_id": {
+    "$oid": "620563e1f8061bb9786aa773"
+  },
+  "Link": "https://www.coindesk.com/layer2/2022/02/08/your-right-to-anonymity-ends-where-risk-to-my-money-begins/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/t8DYxH0P8F4rjKmR2qfj9Lnkexo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JI33EG6ZTFGI3MQIOZGNTFKCAY.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Your Right to Anonymity Ends Where Risk to My Money Begins",
+  "Description": "Who deserves to be anonymous? Identity-related controversies in recent days a lot of simplistic answers to that complex question."
+},{
+  "_id": {
+    "$oid": "620563e2f8061bb9786aa776"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/08/sothebys-to-auction-104-cryptopunks-for-estimated-20m-30m/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/_EdVHUkmo4W_mnGxi7ErEEkH8qw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VE5KNCXHLRDYTGJQRB5JYIKZNE.png",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Sotheby’s to Auction 104 CryptoPunks for Estimated $20M-$30M",
+  "Description": "The legendary “Punk Sweep” of July 2021, originally bought for about $7 million, is going up for purchase."
+},{
+  "_id": {
+    "$oid": "620563e2f8061bb9786aa778"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/08/paypal-names-six-to-newly-formed-crypto-advisory-council/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/L9UfL8bPhTDc5H5htHBbEC2HICs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/EA4MS5JHEVFJRD444QBL3UZ5I4.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "PayPal Forms Crypto Advisory Council",
+  "Description": "The members comprise some of the leading experts in cryptography, distributed technology, regulation, economics, and capital markets."
+},{
+  "_id": {
+    "$oid": "620563e3f8061bb9786aa77c"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/08/valkyrie-bitcoin-miners-etf-managers-bullish-on-green-firms-as-fund-begins-trading/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/frfGofSUhP_uFTwsuUots5BNaJI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/K3FXBHQPSNAHBEMDWSIJUSCX6M.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Valkyrie Bitcoin Miners ETF Managers Bullish on Green Firms as Fund Begins Trading",
+  "Description": "The digital asset manager expects miners using renewable energy will be the ultimate winners in the space."
+},{
+  "_id": {
+    "$oid": "620563e4f8061bb9786aa77e"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/08/crypto-donations-to-ukrainian-activists-soared-in-2021-with-russia-looming-at-the-border-elliptic/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/tRGbDAy2PE06VmB9LRzas_ERRrc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BV3CLOKPAZAFTM6JDVLESD4C3Y.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Crypto Donations to Ukrainian Activists Soared in 2021, With Russia Looming at the Border: Elliptic",
+  "Description": "Bitcoin donations to Ukrainian NGOs and volunteer groups rose tenfold during 2021, the crypto analytics company said."
+},{
+  "_id": {
+    "$oid": "620563e4f8061bb9786aa780"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/08/alfa-romeo-is-building-nfts-into-latest-hybrid-car-to-record-vehicle-data/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/Kmipc5hHacALft6P0bOoAMgjbJ8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/K4HE6R6DSNCILN5L4SGOTTMTH4.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Alfa Romeo Is Building NFTs Into Latest Hybrid Car to Record Vehicle Data",
+  "Description": "The integration by the famed Italian car brand is the latest example of the growing trend of minting “useful” NFTs."
+},{
+  "_id": {
+    "$oid": "620563e5f8061bb9786aa782"
+  },
+  "Link": "https://www.coindesk.com/tech/2022/02/08/nft-trading-card-game-skyweaver-wraps-yearslong-tech-build-with-public-launch/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/61Lvuh_AVp50mYSXAcYqzKblRtQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DUSYR65R6FHU5G27676D2EN4RI.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "NFT Trading Card Game Skyweaver Wraps Yearslong Tech Build With Public Launch",
+  "Description": "The Polygon-based Skyweaver is emerging from private beta with a strong user base."
+},{
+  "_id": {
+    "$oid": "620563e6f8061bb9786aa784"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/08/brazilian-asset-manager-qr-launches-first-local-defi-etf/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/hZ7BB54zcTi50YwwFT4Dm0OjwuQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/CIP2YSZSNJBILEMYCNC5AHMQF4.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Brazilian Asset Manager QR Launches First Local DeFi ETF",
+  "Description": "QDFI11 was listed on the Brazilian stock exchange, B3, and tracks the Bloomberg Galaxy DeFi index."
+},{
+  "_id": {
+    "$oid": "620563e7f8061bb9786aa786"
+  },
+  "Link": "https://www.coindesk.com/policy/2022/02/08/us-officials-seize-bitcoin-from-2016-bitfinex-hack/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/tX3NEoir6MpKv_etVYRFztDn5L4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/Q5JKW4DVZBGFVLGTTFSDHYXD4Y.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "US Officials Seize $3.6B in Bitcoin From 2016 Bitfinex Hack",
+  "Description": "Federal officials seized some $3.6 billion worth of bitcoin and arrested two individuals on Tuesday in connection with the 2016 hack of the crypto exchange Bitfinex."
+},{
+  "_id": {
+    "$oid": "620563e8f8061bb9786aa789"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/08/robo-advisor-betterment-moves-into-crypto-via-makara-acquisition/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/w4i7VV4LtQNZ5whnyUeiQ9GWG3c=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/U7LU7CPIVNCM7PALPA3HY5LZ54.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Robo-Advisor Betterment Moves Into Crypto Via Makara Acquisition",
+  "Description": "Digital wealth management platform Betterment is to enter the cryptocurrency market with the acquisition of crypto robo-advisor Makara."
+},{
+  "_id": {
+    "$oid": "620563e8f8061bb9786aa78b"
+  },
+  "Link": "https://www.coindesk.com/tech/2022/02/08/eth-staking-startup-ssvnetwork-raises-10m-as-ethereum-merge-inches-closer/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/62SmNSZlk_PvTjBXMH_WTLKl0Lg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/SRGWVEUCCFH5HKKU2WA54RGJ7Y.jpeg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "ETH Staking Startup ssv.network Raises $10M as Ethereum ‘Merge’ Inches Closer",
+  "Description": "Project leads say they want to “mitigate” the biggest vulnerabilities in centralized staking."
+},{
+  "_id": {
+    "$oid": "620563e9f8061bb9786aa78d"
+  },
+  "Link": "https://www.coindesk.com/policy/2022/02/08/live-blog-the-house-talks-stablecoins/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/KQZlqRrpHbvBrU4tPpv8ELxAh-w=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/LRRC4CRGCVBXHIIVC7CR7PR37I.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "LIVE BLOG: The House Talks Stablecoins",
+  "Description": "The House of Representatives Financial Services Committee is discussing stablecoins and the President's Working Group on Financial Markets report today to analyze potential regulations for this type of digital asset."
+},{
+  "_id": {
+    "$oid": "620563eaf8061bb9786aa790"
+  },
+  "Link": "https://www.coindesk.com/layer2/2022/02/08/ads-of-the-crypto-bowl/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/chrWsWOG5eD2yvrSm5IhCh3XXf8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/IJSVVYSODFDB7BUI7ZFNNEPXR4.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Ads of the ‘Crypto-Bowl’",
+  "Description": "FTX, Crypto.com, and Binance are among the major players at this year’s Super Bowl."
+},{
+  "_id": {
+    "$oid": "620563ebf8061bb9786aa793"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/08/bitcoin-alcanzara-los-200000-en-la-segunda-mitad-de-2022-segun-fsinsight/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/L0fWe9IkByeD-AFo_KywcSoqziA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/5BQUIJIHKNC2ZGKL4LS3EDWWLU.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Bitcoin alcanzará los $200.000 en la segunda mitad de 2022, según FSInsight",
+  "Description": "La firma especializada en activos digitales también proyecto que ether podría alcanzar los $12.000."
+},{
+  "_id": {
+    "$oid": "620563ecf8061bb9786aa796"
+  },
+  "Link": "https://www.coindesk.com/policy/2022/02/08/stablecoin-regulation-takes-center-stage-at-house-hearing-today/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/bp6h30qktH13uGOsBEAfpLTDYHc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/HI2P6X4YYFEAXFXOLBS2WZTCQY.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Stablecoin Regulation Takes Center Stage at House Hearing Today",
+  "Description": "The House of Representatives will discuss stablecoins and how to regulate them today. Plus, crypto provisions in the House's America COMPETES Act and contextualizing some recent IRS news."
+},{
+  "_id": {
+    "$oid": "620563edf8061bb9786aa79a"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/08/web-3-infrastructure-giant-alchemy-tops-10b-valuation-in-200m-funding-round/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/Gunc54uo2rj2JjXjKsWRCwdOutA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3X36WNQ7P5GOPCOISD4EOAJWNQ.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Web 3 Infrastructure Giant Alchemy Tops $10B Valuation in $200M Funding Round",
+  "Description": "A key player behind decentralized applications on Ethereum and other chains continues to swell."
+},{
+  "_id": {
+    "$oid": "620563eff8061bb9786aa79c"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/08/pantera-leads-18m-round-for-rifts-liquidity-mining-alternative/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/HtHAIoKC4M44PUSLREnWwku_oZA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/NDVDMX43HZCP7EETYXGZ5TKEQU.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Pantera Leads $18M Round for Rift’s Liquidity Mining Alternative",
+  "Description": "The startup, which is coming out of stealth mode, offers protocol-based liquidity to DAOs that creates a better incentive model."
+},{
+  "_id": {
+    "$oid": "620563f0f8061bb9786aa79e"
+  },
+  "Link": "https://www.coindesk.com/policy/2022/02/08/irelands-central-bank-highly-unlikely-to-allow-retail-investors-to-hold-crypto/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/wjada94qWQRKXpleC98s8-81yw4=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/B54QP5MUAJFBXLDCT4GDS5M4MM.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Ireland's Central Bank 'Highly Unlikely' to Allow Retail Investors to Hold Crypto",
+  "Description": "Crypto assets are suitable for professional investors at the moment, the bank said."
+},{
+  "_id": {
+    "$oid": "620563f1f8061bb9786aa7a0"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/08/xrp-climbs-to-091-amid-developments-in-ripple-v-sec-case/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/tP0QL0Pq0YuaAQ-VAWeXbWm4BKU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YAVGVYCHBZDO5H6JVKZ4AXNBLU.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "XRP Climbs 22% Amid Developments in Ripple v. SEC Case",
+  "Description": "The payments token regained a market capitalization of $40 billion on Tuesday, moving above Cardano and Solana."
+},{
+  "_id": {
+    "$oid": "620563f2f8061bb9786aa7a3"
+  },
+  "Link": "https://www.coindesk.com/tech/2022/02/08/assangedao-raises-38m-to-aid-wikileaks-founders-court-battle/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/p-J0CKMTxciMswOZcYwy-BLnu1g=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/C6M6H53FBBDYVIYX7Y2IMBKAII.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "AssangeDAO Raises $38M to Aid WikiLeaks Founder's Court Battle",
+  "Description": "The DAO, which is looking to help the whistleblower, has now raised more ether than ConstitutionDAO."
+},{
+  "_id": {
+    "$oid": "620563f3f8061bb9786aa7a5"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/08/shiba-inus-shib-extends-surge-bitcoin-breaks-key-vwap-resistance/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/pQ7MvEqwUNDFED5GzKuCb0W4roo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QXD3MWCJ6JHZTJXDNJTN7UMZYE.jpeg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Shiba Inu’s SHIB Extends Surge, Bitcoin Breaks a Key Resistance Level",
+  "Description": "Tokens of the memecoin extended Monday's surge even as major cryptocurrencies showed small gains and losses."
+},{
+  "_id": {
+    "$oid": "620563f4f8061bb9786aa7a8"
+  },
+  "Link": "https://www.coindesk.com/policy/2022/02/08/kazakhstan-president-calls-for-tax-increase-on-crypto-mining-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/LStJA7xxJF1nhp1vMsdkYNvCu94=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VJTPUZL3VJERBEVJI2AJE3BPXM.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Kazakhstan President Calls for Tax Increase on Crypto Mining: Report",
+  "Description": "The government is looking to increase a special tax on mining fivefold, weeks after it came into effect."
+},{
+  "_id": {
+    "$oid": "620563f6f8061bb9786aa938"
+  },
+  "Link": "https://www.coindesk.com/policy/2022/02/08/eu-weighs-potential-metaverse-regulation-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/u2tdk0TItd-i7aiRBECm5dgW6YI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/WYRL7JWJIVC6LJI2NCQ4YQOOHE.jpg",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "EU Weighs Potential Metaverse Regulation: Report",
+  "Description": "The European Union (EU) is analyzing the metaverse and what potential regulatory action will be required, one of its commissioners has said."
+},{
+  "_id": {
+    "$oid": "620563f7f8061bb9786aa93c"
+  },
+  "Link": "https://www.coindesk.com/tech/2022/02/08/axie-infinity-reduces-slp-emissions-to-prevent-collapse/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/uw178GmBj5eqQ-q9NQ585rZKj7A=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/C5GUMQU7TNH47GR7EMKLKH6QOU.png",
+  "PubDate": "Tue, 08 Feb 2022 00:00:00 ",
+  "Title": "Axie Infinity Reduces SLP Emissions to Prevent 'Collapse'",
+  "Description": "Concerns around emissions of an in-game token caused falling user numbers and a drastic plunge in SLP prices."
+},{
+  "_id": {
+    "$oid": "620563f9f8061bb9786aa93f"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/07/first-mover-asia-bitcoin-cracks-44k-as-short-term-investors-take-profits/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/1s6oonWs0L9vVIJgBJiLwqG045Y=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3HWUOQTAKRCJZISHWYTFZMBFWM.jpg",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "First Mover Asia: Bitcoin Cracks $44K as Short-Term Investors Take Profits",
+  "Description": "Ether and other major altcoins were up over the past 24 hours."
+},{
+  "_id": {
+    "$oid": "620563fbf8061bb9786aa949"
+  },
+  "Link": "https://www.coindesk.com/tech/2022/02/07/defis-aave-launches-web-3-social-media-platform-lens/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/pqFT8PqAN9NUYOx79p_tbFGaysg=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/AOVBMFIPMBCJNPWDN2Q7MB2OBA.jpg",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "DeFi’s Aave Launches Web 3 Social Media Platform ‘Lens’",
+  "Description": "Composability will be a key feature of the new offering."
+},{
+  "_id": {
+    "$oid": "620563fcf8061bb9786aa94c"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/07/market-wrap-bitcoin-rally-strengthens-as-trader-sentiment-improves/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/qlw6OY_Mq7nkX3rirOT0_MkO_KE=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/C5CRGGZQCNBK5AF5NSC6QZX2VM.jpeg",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "Market Wrap: Bitcoin Rally Strengthens as Trader Sentiment Improves",
+  "Description": "Bitcoin (BTC) is in rally mode after a breakout above $43K. Still, trading volume and volatility remained low on Monday, suggesting low conviction behind the latest price jump. Some analysts remain cautious, but still expect the short squeeze to remain intact over the short-term."
+},{
+  "_id": {
+    "$oid": "620563fdf8061bb9786aa94e"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/07/google-cloud-adds-crypto-mining-malware-threat-detection-service/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/jYZloxSaDN0eudLvAMOJ5ZUUAc8=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/DXDH2JMSYFACFL7SR25MAINOAM.jpg",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "Google Cloud Adds Crypto Mining Malware Threat Detection Service",
+  "Description": "Google’s new Virtual Machine Threat Detection (VMTD) will be able to identify threats from coin mining, data exfiltration and ransomware."
+},{
+  "_id": {
+    "$oid": "620563fff8061bb9786aa952"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/07/ny-fed-stablecoins-are-not-the-future-of-payments/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/PuAGHx7fzbNQgCumDXk-O8ydlA0=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/F5JYGK5KZ5BKLGPLIKRBAVLLRU.jpg",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "NY Fed: Stablecoins Are Not the Future of Payments",
+  "Description": "Researchers at the New York Federal Reserve have published another research paper, laying out reasons why stablecoins aren't the future of payments."
+},{
+  "_id": {
+    "$oid": "62056400f8061bb9786aa955"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/07/leading-digital-exchanges-announce-launch-of-crypto-market-integrity-coalition/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/LXnadhT0fW_rtyg3gF9eyNCAhTs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A6UPMMX6OJF4JGDO4IQHE2G66U.jpg",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "Leading Digital Exchanges Launch Crypto Market Integrity Coalition",
+  "Description": "Founding members of the 17-strong Crypto Market Integrity Coalition (CMIC) include Coinbase, Huobi Tech, Circle, GSR, and Anchorage Digital."
+},{
+  "_id": {
+    "$oid": "62056401f8061bb9786aa959"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/07/crypto-mining-stocks-rally-as-bitcoin-surges-past-44000/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/7KUddpqhvKJFXrZk78ABesZbeBk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VMY5RTV2YNCG7EP5JAWCP45MZ4.jpg",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "Crypto Mining Stocks Rally as Bitcoin Surges Past $44,000",
+  "Description": "Publicly-traded miners large and small have rebounded in February in concert with bitcoin’s rise."
+},{
+  "_id": {
+    "$oid": "62056402f8061bb9786aa95b"
+  },
+  "Link": "https://www.coindesk.com/layer2/2022/02/07/cbdcs-and-the-case-for-the-public-good/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/awzjnoNhxwIBKznBUaoWKan0lNU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/YTJSB3FOOJB2BJ4EPIM2GR3DFE.jpg",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "CBDCs and the Case for the Public Good",
+  "Description": "It's time to get clearer on what digital fiat currencies can and can't do, says the COO of the Stellar Development Foundation."
+},{
+  "_id": {
+    "$oid": "62056404f8061bb9786aa95d"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/07/bitcoins-rally-faces-initial-resistance-at-45k-47k-support-is-at-40k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/bATc3r_E1vebOtnDhrB5KOvX_ac=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/TQMRX7QT6ZDTTJSBASS5EJUCQY.png",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "Bitcoin's Rally Faces Initial Resistance at $45K-$47K, Support Is at $40K",
+  "Description": "Bitcoin (BTC) continues to rally toward the $45K-$47K resistance levels. The outlook for BTC is less bearish after holding above the $40K support level over the weekend. Still, long-term momentum remains negative, which could stall a full price recovery."
+},{
+  "_id": {
+    "$oid": "62056405f8061bb9786aa95f"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/07/kpmg-canada-adds-crypto-to-its-balance-sheet/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/j2_k04oW46PEh9Zqk6ZyEwOasKI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RIOBFJG7H5GLPPQCFZPMSH3A5E.jpg",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "KPMG Canada Adds Crypto to Its Balance Sheet",
+  "Description": "The accounting firm acquired an undisclosed amount of bitcoin and ether using Gemini Trust’s execution and custody services."
+},{
+  "_id": {
+    "$oid": "62056405f8061bb9786aa961"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/07/crypto-fund-fund-inflows-follow-pickup-in-market-sentiment/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/3OKNeVFXIFPL4b7QIGE4i4Nhw8g=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7HJ6J3BJ4RCG5P3TDY7TEPB7SM.png",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "Crypto Fund Inflows Follow Pickup in Market Sentiment",
+  "Description": "Inflows into digital-asset funds last week were 4.5 times what they were the week before, suggesting investor confidence in the recovering crypto markets."
+},{
+  "_id": {
+    "$oid": "62056406f8061bb9786aa964"
+  },
+  "Link": "https://www.coindesk.com/layer2/2022/02/07/of-course-its-ok-to-out-the-bayc-founders/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/8Poh7cx-mFUvpAFj-xgscloAA9Y=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7KTO3LFIXJGZ5OVMFSORKWYE6E.jpeg",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "Of Course It’s OK to Out the BAYC Founders",
+  "Description": "In \"doxing\" two of the NFT project's creators, BuzzFeed News was simply doing its job."
+},{
+  "_id": {
+    "$oid": "62056406f8061bb9786aa966"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/07/valkyrie-bitcoin-miners-etf-approved-for-nasdaq-listing/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/S75iCTbLnl_ZmshgdN_d-Ja5NKo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/MHYV2GYGINC75PGYFPVC7DTR3Q.jpg",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "Valkyrie Bitcoin Miners ETF Approved for Nasdaq Listing",
+  "Description": "The Valkyrie Bitcoin Miners ETF (WGMI) will invest at least 80% of its net assets in companies that derive a minimum of 50% of their profit from bitcoin mining."
+},{
+  "_id": {
+    "$oid": "62056407f8061bb9786aa968"
+  },
+  "Link": "https://www.coindesk.com/layer2/2022/02/07/meet-the-man-behind-associated-press-crypto-strategy/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/y6mDpvIVQbeVo5-zeCDTEvaa_BA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/3KLWKZX3HNAGNMQO642NJ7MVGA.png",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "Meet the Man Behind Associated Press' Crypto Strategy",
+  "Description": ""
+},{
+  "_id": {
+    "$oid": "62056408f8061bb9786aa96b"
+  },
+  "Link": "https://www.coindesk.com/policy/2022/02/07/new-acting-chair-of-fdic-says-evaluation-of-crypto-risks-is-a-top-priority-for-2022/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/r8lqxTM-8fV7kAj0KCMPuXRrFPc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4UFQCTYRWFCCHMMOYOKDI6B5WU.jpg",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "New FDIC Acting Chair Says Evaluation of Crypto Risks Is a Top Priority for 2022",
+  "Description": "Martin Gruenberg said agencies like the FDIC needed to provide “robust guidance” to the banking industry on how to manage the risks to consumers posed by crypto assets."
+},{
+  "_id": {
+    "$oid": "6205640af8061bb9786aa977"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/07/crypto-payments-firm-wirex-expands-to-us-begins-distributing-crypto-linked-visa-debit-card/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/AMCBjKzOTUQbeAAFGZbdQTPeu3g=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/P5IO5H7MBFF7FAFYDA56H44KT4.png",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "Crypto Payments Firm Wirex Expands to US, Begins Distributing Crypto-Linked Visa Debit Card",
+  "Description": "U.S.-based users of Wirex will be able to use the company’s app to buy, store, and exchange traditional currencies and 37 different cryptocurrencies"
+},{
+  "_id": {
+    "$oid": "6205640bf8061bb9786aa97a"
+  },
+  "Link": "https://www.coindesk.com/layer2/2022/02/07/accounting-standards-are-key-to-getting-digital-assets-on-corporate-balance-sheets/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Image": "https://www.coindesk.com/resizer/dBGmfbfPIW1L7G-hrFfDWrdtScA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QBBJ5HH6OFGPTE5J5S6Y6JKJ64.jpg",
+  "PubDate": "Mon, 07 Feb 2022 00:00:00 ",
+  "Title": "Accounting Standards Are Key to Getting Digital Assets on Corporate Balance Sheets",
+  "Description": ""
+},{
+  "_id": {
+    "$oid": "6205640df8061bb9786aa986"
+  },
+  "Link": "https://news.bitcoin.com/technical-analysis-theta-surges-20-while-leo-falls-lower-again/",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/shutterstock_1125386132.jpg",
+  "PubDate": "Thu, 10 Feb 2022 18:25:57 +0000",
+  "Title": "Technical Analysis: THETA Surges 20%, While LEO Falls Lower, Again – Market Updates Bitcoin News",
+  "Description": "LEO fell for a second consecutive session, as crypto markets traded with higher levels of volatility on Thursday. THETA ignored this uncertainty and climbed by close to 20% today. Biggest gainers Following turbulence during today’s trading session, the global cryptocurrency market capitalisation was able to climb, and was around 1% higher as of writing. . […]"
+},{
+  "_id": {
+    "$oid": "6205640df8061bb9786aa988"
+  },
+  "Link": "https://news.bitcoin.com/us-inflation-jumps-to-7-5-cpi-climbs-at-fastest-rate-in-40-years-citizens-see-little-wage-growth/",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/shutterstock_1966788610.jpg",
+  "PubDate": "Thu, 10 Feb 2022 18:00:05 +0000",
+  "Title": "US Inflation Jumps to 7.5%, CPI Climbs at Fastest Rate in 40 Years, Citizens See Little Wage Growth – Economics Bitcoin News",
+  "Description": "Inflation in the United States continues to rise as it climbed at its fastest rate in 40 years since February 1982. Statistics from the U.S. Labor Department’s Consumer Price Index (CPI) jumped 7.5% higher than it was a year ago. US Inflation Continues to Surge On Thursday, the U.S. Labor Department published its CPI report […]"
+},{
+  "_id": {
+    "$oid": "6205640ef8061bb9786aa98a"
+  },
+  "Link": "https://news.bitcoin.com/rbi-cryptocurrency-big-threat-to-macroeconomic-financial-stability-india/",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/financial-stability.jpg",
+  "PubDate": "Thu, 10 Feb 2022 16:00:29 +0000",
+  "Title": "RBI: Cryptocurrency Is a Big Threat to Macroeconomic and Financial Stability in India – Regulation Bitcoin News",
+  "Description": "The governor of India’s central bank, the Reserve Bank of India (RBI), has reiterated his concerns that cryptocurrency is a “big threat” to the country’s financial and macroeconomic stability. He also warned investors of the risks of investing in crypto, stating this type of investment has no underlying value. RBI’s Multiple Concerns About Crypto Reserve […]"
+},{
+  "_id": {
+    "$oid": "6205640ef8061bb9786aa98c"
+  },
+  "Link": "https://news.bitcoin.com/bitcoin-ethereum-technical-analysis-eth-btc-volatile-as-u-s-inflation-hits-40-year-high/",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/shutterstock_1989377696.jpg",
+  "PubDate": "Thu, 10 Feb 2022 15:30:58 +0000",
+  "Title": "Bitcoin, Ethereum Technical Analysis: ETH, BTC Volatile as US Inflation Hits 40-Year High – Market Updates Bitcoin News",
+  "Description": "Prices of ethereum and bitcoin were volatile on Thursday, as markets reacted to U.S. inflation data. Bitcoin briefly recaptured the $45,000 level, but sold off after the data was released. Bitcoin Bitcoin started the day in the green, hitting the $45,000 mark in the process, however as the U.S. equity session opened, prices weighed, as […]"
+},{
+  "_id": {
+    "$oid": "6205640ff8061bb9786aa98e"
+  },
+  "Link": "https://news.bitcoin.com/kirobo-ceo-asaf-naim-explains-how-building-a-safety-net-for-defi-users-will-make-it-bigger-than-ever/",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/01/photo6014929706538876619.jpg",
+  "PubDate": "Thu, 10 Feb 2022 15:00:06 +0000",
+  "Title": "Kirobo CEO Asaf Naim Explains How Building a Safety Net for DeFi Users Will Make It Bigger Than Ever – Interview Bitcoin News",
+  "Description": "Kirobo is a decentralized application developer building out a suite of services focused on DeFi security and usability. With a $5 million investment from Digimax in 2021, Kirobo works to make decentralized finance as accessible and user-friendly as regular online banking. Kirobo is the proud recipient of two grants from the Israeli Innovation Authority—the only […]"
+},{
+  "_id": {
+    "$oid": "62056410f8061bb9786aa991"
+  },
+  "Link": "https://news.bitcoin.com/kazakhstan-president-orders-government-to-find-all-miners-and-raise-tax-by-april/",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/shutterstock_1740056237.jpg",
+  "PubDate": "Thu, 10 Feb 2022 14:30:12 +0000",
+  "Title": "Kazakhstan President Orders Government to Find All Miners and Raise Tax by April – Mining Bitcoin News",
+  "Description": "President of Kazakhstan Kassym-Jomart Tokayev has instructed authorities to identify all crypto mining enterprises and increase the electricity surcharge they are required to pay. The state is not against legal mining activities, but crypto farms should be licensed and taxed, Tokayev insisted. Miners in Kazakhstan to Pay Higher Electricity Tariffs On top of electricity shortages […]"
+},{
+  "_id": {
+    "$oid": "62056411f8061bb9786aa993"
+  },
+  "Link": "https://news.bitcoin.com/custom-nft-marketplace-creaticles-bolsters-advisory-board-ahead-of-multi-chain-expansion/",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/img_20220210_161037_212.jpeg",
+  "PubDate": "Thu, 10 Feb 2022 14:00:13 +0000",
+  "Title": "Custom NFT Marketplace Creaticles Bolsters Advisory Board Ahead of Multi-Chain Expansion – Press release Bitcoin News",
+  "Description": "PRESS RELEASE. Boston, 10 February 2022 – Creaticles, the world’s first NFT Requests Marketplace, has today announced new signature additions to its Advisory Board, Jeff Jiho Zirlin, Co-Founder of Axie Infinity; Sébastien Borget, COO and Co-founder of Sandbox; Joe Zhou – Co-Founder and CEO of FirstBlood; Juergen Hoebarth, seasoned blockchain consultant and Founder of NFT.Art; […]"
+},{
+  "_id": {
+    "$oid": "62056411f8061bb9786aa995"
+  },
+  "Link": "https://news.bitcoin.com/binance-partners-with-korean-entertainment-corporation-nft-and-metaverse-collaborations-envisioned/",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/shutterstock_2008014740.jpg",
+  "PubDate": "Thu, 10 Feb 2022 13:00:37 +0000",
+  "Title": "Binance Partners With Korean Entertainment Corporation — NFT and Metaverse Collaborations Envisioned – Bitcoin News",
+  "Description": "Binance and the South Korean entertainment corporation, YG Entertainment, have signed an agreement that enables the two firms to collaborate on blockchain projects that include non-fungible tokens (NFTs). They also plan to develop games that are compatible with the Binance Smart Chain (BSC). NFTs, Games, and Metaverse Collaborations Cryptocurrency exchange Binance and YG Entertainment Inc., […]"
+},{
+  "_id": {
+    "$oid": "62056412f8061bb9786aa998"
+  },
+  "Link": "https://news.bitcoin.com/merkle-standard-chosen-as-launch-customer-orders-4449-of-newest-bitmain-188-th-s-s19-hydro-mining-rigs/",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/photo_2022-02-09_15-57-22.png",
+  "PubDate": "Thu, 10 Feb 2022 11:30:05 +0000",
+  "Title": "Merkle Standard Chosen as Launch Customer, Orders 4,449 of Newest BITMAIN 188 TH",
+  "Description": "PRESS RELEASE. (Irvine, February 9, 2022) – Sustainable Bitcoin mining company Merkle Standard has executed a purchase order for the high-performance, liquid-cooled mining rigs from Bitmain Technologies Ltd. The leading ASIC hardware provider will supply 4,449 of new S19 Pro + Hydro machines to Merkle Standard in May 2022 and is expected to be one […]"
+},{
+  "_id": {
+    "$oid": "62056412f8061bb9786aa99a"
+  },
+  "Link": "https://news.bitcoin.com/ukrainian-volunteer-groups-accept-bitcoin-donations-amid-tensions-with-russia-study-finds/",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/shutterstock_2116103069.jpg",
+  "PubDate": "Thu, 10 Feb 2022 11:00:08 +0000",
+  "Title": "Ukrainian Volunteer Groups Accept Bitcoin Donations Amid Tensions With Russia, Study Finds – Bitcoin News",
+  "Description": "Non-government and volunteer organizations collecting funds to support Ukrainian forces have been accepting donations in cryptocurrency, a new report has unveiled. The findings have been published amid heightened tensions with Russia, which has been accused of amassing troops at the border with Ukraine. Ukrainian Organizations Crowdfund Defense Effort With Crypto Ukrainian NGOs and volunteer groups […]"
+},{
+  "_id": {
+    "$oid": "62056416f8061bb9786aa9a1"
+  },
+  "Link": "https://akeo.tech/blog/success-stories/akeo-has-bought-50-of-the-shares-in-enl-solutions-as/",
+  "Image": "https://akeo.tech/wp-content/uploads/2022/01/Akeo-ENL-Solutions-scaled.jpg",
+  "PubDate": "Fri, 21 Jan 2022 16:53:48 +0000",
+  "Title": "Akeo has bought 50% of the shares in ENL Solutions AS",
+  "Description": "We are very happy to announce that Akeo has purchased 50% of the shares in ENL Solutions AS. ENL is a nautical logistics company that aims to integrate blockchain, artificial intelligence, machine learning and financial technology solutions into their existing systems operational in the shipping industry. “It was an exciting opportunity we just had to…\nThe post Akeo has bought 50% of the shares in ENL Solutions AS appeared first on Akeo.\n"
+},{
+  "_id": {
+    "$oid": "62056418f8061bb9786aa9a3"
+  },
+  "Link": "https://akeo.tech/blog/business-and-innovation/2021-in-review-top-5-most-read-blogs/",
+  "Image": "https://akeo.tech/wp-content/uploads/2022/01/blog.webp",
+  "PubDate": "Wed, 19 Jan 2022 10:45:20 +0000",
+  "Title": "2021 in Review – Top 5 most read blogs",
+  "Description": "2021 was year where technology was in works under full throttle. With on-going pandemic, it was technology only that kept us together. Businesses and startups not only took their business online but also banked on various opportunities that came to light due to the pandemic. That is why it became important for us to throw…\nThe post 2021 in Review – Top 5 most read blogs appeared first on Akeo.\n"
+},{
+  "_id": {
+    "$oid": "6205641af8061bb9786aa9a6"
+  },
+  "Link": "https://akeo.tech/blog/success-stories/akeo-continues-to-grow-despite-the-pandemic/",
+  "Image": "https://akeo.tech/wp-content/uploads/2021/10/Screenshot-2021-10-22-at-10.05.01-PM.png",
+  "PubDate": "Fri, 22 Oct 2021 22:09:35 +0000",
+  "Title": "Akeo continues to grow despite the pandemic",
+  "Description": "Akeo has experienced growth during the corona pandemic. Even after a tough period in the first half of 2020, the company currently is excelling as a technical partner for both startups and scaleups. “We think this is because we have been brave and taken many chances to be out early to test and use new…\nThe post Akeo continues to grow despite the pandemic appeared first on Akeo.\n"
+},{
+  "_id": {
+    "$oid": "6205641cf8061bb9786aa9a9"
+  },
+  "Link": "https://akeo.tech/blog/business-and-innovation/how-to-validate-the-business-idea-for-your-startup/",
+  "Image": "https://akeo.tech/wp-content/uploads/2021/10/63814259_l-scaled.jpg",
+  "PubDate": "Fri, 08 Oct 2021 22:23:11 +0000",
+  "Title": "How to validate the business idea for your startup?",
+  "Description": "Amongst a few of the major reason that cause a business to fail are lack of money and the inability to develop the idea. However, what many entrepreneurs do not know that the main cause of failure is not validating the business idea. Because of their extremely positive attitude, entrepreneurs end up ignoring the validation this. Usually…\nThe post How to validate the business idea for your startup? appeared first on Akeo.\n"
+},{
+  "_id": {
+    "$oid": "6205641ef8061bb9786aa9ab"
+  },
+  "Link": "https://akeo.tech/blog/business-and-innovation/remote-workforce-and-team-vital-for-businesses-during-current-times/",
+  "Image": "https://akeo.tech/wp-content/uploads/2021/08/remote-meeting-woman-working-from-home-during-coronavirus-covid-19-quarantine-remote-office-concept-1080x675-1.webp",
+  "PubDate": "Fri, 06 Aug 2021 18:38:52 +0000",
+  "Title": "Remote workforce and team vital for businesses during current times",
+  "Description": "One of the core lessons that the pandemic has shown is that by leveraging modern technology, businesses can function, even under lockdown. Technology offers resilience, and businesses not only managed to sustain but also managed to grow.  We can’t deny the fact that not every business was able to sustain under the Covid-19 pandemic. We…\nThe post Remote workforce and team vital for businesses during current times appeared first on Akeo.\n"
+},{
+  "_id": {
+    "$oid": "6205641ff8061bb9786aa9b0"
+  },
+  "Link": "https://akeo.tech/blog/fintech/fintech-unicorns-take-the-world-by-a-storm-including-europe/",
+  "Image": "https://akeo.tech/wp-content/uploads/2021/07/WhatsApp-Image-2021-07-29-at-6.56.21-PM-1080x675-1.webp",
+  "PubDate": "Thu, 29 Jul 2021 19:00:18 +0000",
+  "Title": "Fintech unicorns take the world by a storm, including Europe",
+  "Description": "Barely halfway through 2021, Europe has already broken the record for annual investment into fintechs. So far this year, European fintechs have raised €10.4bn, trumping the €9.3bn raised across the whole of 2019 — the previous highest year on record according to Dealroom data.  It’s also a marked recovery from 2020 when, in the midst…\nThe post Fintech unicorns take the world by a storm, including Europe appeared first on Akeo.\n"
+},{
+  "_id": {
+    "$oid": "62056421f8061bb9786aa9b3"
+  },
+  "Link": "https://akeo.tech/blog/business-and-innovation/how-to-create-a-persona-and-an-end-user-for-your-startup/",
+  "Image": "https://akeo.tech/wp-content/uploads/2021/07/blog-akeo.webp",
+  "PubDate": "Mon, 12 Jul 2021 19:04:51 +0000",
+  "Title": "How to create a Persona and an End User for Your Startup",
+  "Description": "Defining the potential user/s of their products for startup owners doesn’t seem to be a difficult part. The difficult part to identify the persona of the users and then sticking to them. How many times it happens that startups define users in broader perspective and end up chasing the wrong ones. There are also instances…\nThe post How to create a Persona and an End User for Your Startup appeared first on Akeo.\n"
+},{
+  "_id": {
+    "$oid": "62056422f8061bb9786aa9b5"
+  },
+  "Link": "https://akeo.tech/blog/business-and-innovation/6-steps-to-make-fundraising-easy-for-any-startup/",
+  "Image": "https://akeo.tech/wp-content/uploads/2021/07/125387432_m-1080x675-1.webp",
+  "PubDate": "Mon, 28 Jun 2021 16:50:54 +0000",
+  "Title": "6 steps to make fundraising easy for any startup",
+  "Description": "Startups in Europe may have a long way to cross the gap and reach the heights that of Silicon Valley, but it’s on the right track. According to a report published by EuropeanStartups.co, around 205 startups reached a valuation of over $1 billion n the year 2020. Venture capitalists back most of these startups unicorns. Even…\nThe post 6 steps to make fundraising easy for any startup appeared first on Akeo.\n"
+},{
+  "_id": {
+    "$oid": "62056424f8061bb9786aa9b8"
+  },
+  "Link": "https://akeo.tech/blog/success-stories/from-a-disruptive-idea-to-a-life-changing-solution-wakandi-is-driving-digital-transformation-in-africa/",
+  "Image": "https://akeo.tech/wp-content/uploads/2021/06/Wakandi-touching-millions-of-lives-in-Africa.png",
+  "PubDate": "Fri, 04 Jun 2021 18:48:54 +0000",
+  "Title": "From a disruptive idea to a life-changing solution – Wakandi is driving digital transformation in Africa",
+  "Description": "Wakandi was founded in 2018 to improve the way money, and money transfers are handled in Africa. The project began its journey as an idea for a high-end payment system to provide faster, cheaper, and more secure payments with distributed ledger technology (DLT). After more than 3 years of constant efforts, Wakandi is touching the…\nThe post From a disruptive idea to a life-changing solution – Wakandi is driving digital transformation in Africa appeared first on Akeo.\n"
+},{
+  "_id": {
+    "$oid": "62056425f8061bb9786aa9bb"
+  },
+  "Link": "https://akeo.tech/blog/business-and-innovation/how-to-build-solid-relationships-with-your-customers/",
+  "Image": "https://akeo.tech/wp-content/uploads/2021/06/relationships.webp",
+  "PubDate": "Wed, 02 Jun 2021 17:57:31 +0000",
+  "Title": "How to build solid relationships with your customers",
+  "Description": "At first, one may believe that Customer Service and Customer Relations are synonymous. However, there is a very distinct difference between the two. Customer Service is more of an inbound function which a customer expects before or after making a product purchase. On the other hand, Customer Relations is both an inbound and outbound activity.…\nThe post How to build solid relationships with your customers appeared first on Akeo.\n"
+},{
+  "_id": {
+    "$oid": "6205642af8061bb9786aa9c1"
+  },
+  "Link": "https://blocknewsafrica.com/ascendex-lists-maple-finance-token-mpl/?utm_source=rss&utm_medium=rss&utm_campaign=ascendex-lists-maple-finance-token-mpl",
+  "Image": "https://blocknewsafrica.com/wp-content/uploads/2022/01/ascendex-lists-maple-finance-token-mpi.jpeg",
+  "PubDate": "Sun, 02 Jan 2022 00:20:30 +0000",
+  "Title": "AscendEX Lists Maple Finance Token, MPL",
+  "Description": "AscendEX is thrilled to announce the listing of the Maple Finance Token (MPL) under the trading pair MPL/USDT starting on Dec. 30 at 2 p.m. UTC. Maple Finance is an institutional capital marketplace powered by blockchain technology. On a mission to redefine capital markets through digital assets, Maple expands the digital economy by providing undercollateralized lending for institutional borrowers […]\nThe post AscendEX Lists Maple Finance Token, MPL appeared first on BlockNewsAfrica.\n"
+},{
+  "_id": {
+    "$oid": "6205642cf8061bb9786aa9c4"
+  },
+  "Link": "https://blocknewsafrica.com/double-your-crypto-with-100-bonus-at-jackpotcrypto-casino/?utm_source=rss&utm_medium=rss&utm_campaign=double-your-crypto-with-100-bonus-at-jackpotcrypto-casino",
+  "Image": "https://blocknewsafrica.com/wp-content/uploads/2021/06/photo_2021-06-02_11-19-33.jpg",
+  "PubDate": "Thu, 03 Jun 2021 12:03:52 +0000",
+  "Title": "Double Your Crypto with 100% Bonus at JackpotCrypto Casino",
+  "Description": "A truly “next gen” crypto casino with a sleek, original interface, JackpotCrypto is happy to announce their latest bonus offering: a new crypto deposit bonus of 100%, redeemable at any time while the promotion is active. The bonus is available to all existing members and can be taken advantage of by entering the promo code “Lambo100” […]\nThe post Double Your Crypto with 100% Bonus at JackpotCrypto Casino appeared first on BlockNewsAfrica.\n"
+},{
+  "_id": {
+    "$oid": "6205642ef8061bb9786aa9c7"
+  },
+  "Link": "https://blocknewsafrica.com/african-crypto-exchange-quidax-raises-over-3-million-on-the-worst-day-of-crypto/?utm_source=rss&utm_medium=rss&utm_campaign=african-crypto-exchange-quidax-raises-over-3-million-on-the-worst-day-of-crypto",
+  "Image": "https://blocknewsafrica.com/wp-content/uploads/2021/05/QDX-is-sold-out.png",
+  "PubDate": "Tue, 25 May 2021 09:11:13 +0000",
+  "Title": "African Crypto Exchange, Quidax raises over $3 million on the worst day of Crypto",
+  "Description": "On what could be tagged as the worst day of crypto this year, African-founded exchange, Quidax, raised over 7,772 BNB from the public sale of its token, QDX. The crypto market suffered its first major dip in 2021 on Thursday, May 19 with Bitcoin dropping as low as $30,000 from highs of $64,000. In spite of this, […]\nThe post African Crypto Exchange, Quidax raises over $3 million on the worst day of Crypto appeared first on BlockNewsAfrica.\n"
+},{
+  "_id": {
+    "$oid": "62056430f8061bb9786aa9cd"
+  },
+  "Link": "https://blocknewsafrica.com/julswap-review-the-ultimate-uniswap-alternative-on-binance-smart-chain/?utm_source=rss&utm_medium=rss&utm_campaign=julswap-review-the-ultimate-uniswap-alternative-on-binance-smart-chain",
+  "Image": "https://blocknewsafrica.com/wp-content/uploads/2021/05/E0zEWxJWYAIp-M0.jpeg",
+  "PubDate": "Sat, 22 May 2021 18:05:55 +0000",
+  "Title": "Julswap Review – The Ultimate Uniswap Alternative On Binance Smart Chain?",
+  "Description": "The Binance Smart Chain ecosystem has become one of the most vibrant in the decentralized finance (DeFi) space. Another important aspect of the decentralized finance ecosystem is decentralized exchanges (DEX), where swaps and trading occur.  In this review, we look at Julswap, a decentralized exchange platform on the Binance Smart Chain.  What is Julswap? Julswap […]\nThe post Julswap Review – The Ultimate Uniswap Alternative On Binance Smart Chain? appeared first on BlockNewsAfrica.\n"
+},{
+  "_id": {
+    "$oid": "62056432f8061bb9786aa9d0"
+  },
+  "Link": "https://blocknewsafrica.com/african-crypto-exchange-processes-over-3-2-billion-in-transactions-announces-global-expansion/?utm_source=rss&utm_medium=rss&utm_campaign=african-crypto-exchange-processes-over-3-2-billion-in-transactions-announces-global-expansion",
+  "Image": "https://blocknewsafrica.com/wp-content/uploads/2021/05/Quidax-Home-of-BEP20-Tokens-1080-x-1080.jpg",
+  "PubDate": "Mon, 10 May 2021 13:08:56 +0000",
+  "Title": "African Crypto Exchange Processes over $3.2 billion in transactions, announces global Expansion",
+  "Description": "Cryptocurrency exchange, Quidax on Monday, 10th May officially shared plans to expand beyond Africa to the global market. They also announced the launch of their native token, QDX and revealed plans to reposition as the global home of BEP20 tokens. Quidax is a cryptocurrency exchange that launched in August 2018. The exchange previously positioned itself as an African focused […]\nThe post African Crypto Exchange Processes over $3.2 billion in transactions, announces global Expansion appeared first on BlockNewsAfrica.\n"
+},{
+  "_id": {
+    "$oid": "62056434f8061bb9786aa9d5"
+  },
+  "Link": "https://blocknewsafrica.com/jumble-cash-the-best-bnb-privacy-platform/?utm_source=rss&utm_medium=rss&utm_campaign=jumble-cash-the-best-bnb-privacy-platform",
+  "Image": "https://blocknewsafrica.com/wp-content/uploads/2021/05/jumble-binance-coin-privacy.jpg",
+  "PubDate": "Tue, 04 May 2021 13:45:38 +0000",
+  "Title": "Jumble Cash: the best BNB privacy platform in 2021",
+  "Description": "As the crypto industry grows, privacy once again is in the spotlight. Jumble Cash which sold out in just 3 minutes on the BSC Starter IDO platform, delivers the best privacy solution for BNB.   Why is Jumble one of the best BNB mixers available? Engineers and projects which chose to fork any existing code […]\nThe post Jumble Cash: the best BNB privacy platform in 2021  appeared first on BlockNewsAfrica.\n"
+},{
+  "_id": {
+    "$oid": "62056436f8061bb9786aa9d7"
+  },
+  "Link": "https://blocknewsafrica.com/cartesi-as-a-leading-layer-2-platform-for-the-development-of-smart-contracts/?utm_source=rss&utm_medium=rss&utm_campaign=cartesi-as-a-leading-layer-2-platform-for-the-development-of-smart-contracts",
+  "Image": "https://blocknewsafrica.com/wp-content/uploads/2021/03/cartesi.jpeg",
+  "PubDate": "Wed, 31 Mar 2021 14:45:12 +0000",
+  "Title": "Cartesi As A Leading Layer-2 Platform For The Development Of Smart Contracts",
+  "Description": "Cartesi is taking smart contracts to the next level. It is a chain-agnostic layer-2 infrastructure, solving the pressing problem of scalability on the most important blockchains. Most notably, Cartesi implements a unique Linux-supporting VM, rollups and side-chains to revolutionize the way developers create blockchain applications, allowing them to use mainstream software components. Using Cartesi, blockchain applications […]\nThe post Cartesi As A Leading Layer-2 Platform For The Development Of Smart Contracts appeared first on BlockNewsAfrica.\n"
+},{
+  "_id": {
+    "$oid": "62056438f8061bb9786aa9da"
+  },
+  "Link": "https://blocknewsafrica.com/twitter-ceo-intends-to-send-nft-profits-to-african-charities/?utm_source=rss&utm_medium=rss&utm_campaign=twitter-ceo-intends-to-send-nft-profits-to-african-charities",
+  "Image": "https://blocknewsafrica.com/wp-content/uploads/2021/03/twitter-ceo-nft-sale.png",
+  "PubDate": "Sun, 14 Mar 2021 13:39:04 +0000",
+  "Title": "Twitter CEO Intends To Send NFT Profits To African Charities",
+  "Description": "Twitter CEO Jack Dorsey will donate proceeds from his NFT to African charities after converting it to bitcoin. Jack Dorsey got the non-fungible tokens (NFTs) crowd into a frenzy with his first NFT. Dorsey put his first tweet up for sale on the blockchain. Ending this March 21st Will immediately convert proceeds to #Bitcoin And […]\nThe post Twitter CEO Intends To Send NFT Profits To African Charities appeared first on BlockNewsAfrica.\n"
+},{
+  "_id": {
+    "$oid": "6205643af8061bb9786aa9dd"
+  },
+  "Link": "https://blocknewsafrica.com/buybsv-com-now-in-seven-new-countries/?utm_source=rss&utm_medium=rss&utm_campaign=buybsv-com-now-in-seven-new-countries",
+  "Image": "https://blocknewsafrica.com/wp-content/uploads/2021/03/buybsv-cover-image.jpg",
+  "PubDate": "Tue, 09 Mar 2021 10:20:14 +0000",
+  "Title": "BuyBSV.com Now in Seven New Countries",
+  "Description": "The expansion of the Bitcoin SV blockchain to many countries has perpetrated the need for Bitcoin SV (BSV) to become available worldwide. BuyBSV.com continues to expand its territories and can now be accessed in seven new countries. You can now buy BSV using your VISA or MasterCard in: Argentina, Colombia, Chile, Greenland, Kenya, Peru & Taiwan. This is in addition to […]\nThe post BuyBSV.com Now in Seven New Countries appeared first on BlockNewsAfrica.\n"
+},{
+  "_id": {
+    "$oid": "6205643cf8061bb9786aa9e2"
+  },
+  "Link": "https://blocknewsafrica.com/crypto-slangs-to-know-before-you-buy-bitcoin/?utm_source=rss&utm_medium=rss&utm_campaign=crypto-slangs-to-know-before-you-buy-bitcoin",
+  "Image": "https://blocknewsafrica.com/wp-content/uploads/2021/02/FOMO-IMAGE.jpg",
+  "PubDate": "Thu, 25 Feb 2021 15:26:30 +0000",
+  "Title": "Crypto Slangs to Know Before You Buy Bitcoin",
+  "Description": "Before venturing into any industry, it is very important to conduct proper research which also includes understanding the basic terminologies. Knowing the slang words used in a niche should be the first step for any newbie looking to delve into that niche. The crypto industry is not an exception, as it definitely has lots of […]\nThe post Crypto Slangs to Know Before You Buy Bitcoin appeared first on BlockNewsAfrica.\n"
+},{
+  "_id": {
+    "$oid": "62056440f8061bb9786aa9e7"
+  },
+  "Link": "https://blog.ionixxtech.com/what-is-over-the-counter-otc-trading-what-are-the-pros-cons-of-otc-crypto-trading/",
+  "Image": "https://blog.ionixxtech.com/wp-content/uploads/2021/11/pros-cons-of-OTC-crypto-trading-1.png",
+  "PubDate": "Thu, 11 Nov 2021 07:41:30 ",
+  "Title": "What is Over-the-Counter (OTC) trading? What are the pros & cons of OTC crypto trading?",
+  "Description": "Over-the-Counter (OTC) trading has been in use with traditional investors for many years now and has only recently gained prominence in the crypto investment arena. Over-the-Counter (OTC) trading has been in use with traditional investors for Read more\nThe post What is Over-the-Counter (OTC) trading? What are the pros & cons of OTC crypto trading? appeared first on ixBlog.\n"
+},{
+  "_id": {
+    "$oid": "62056441f8061bb9786aa9ea"
+  },
+  "Link": "https://blog.ionixxtech.com/how-to-develop-an-otc-crypto-trading-platform/",
+  "Image": "https://blog.ionixxtech.com/wp-content/uploads/2021/09/Blog-3.jpeg",
+  "PubDate": "Thu, 09 Sep 2021 08:56:44 ",
+  "Title": "How to Develop an Over the Counter Crypto Trading Platform",
+  "Description": "The demand for over-the-counter (OTC) crypto trading platform development has continued to skyrocket since its introduction and has seen many high net worth individuals and institutional investors drawn by its potential. The main reason for Read more\nThe post How to Develop an Over the Counter Crypto Trading Platform appeared first on ixBlog.\n"
+},{
+  "_id": {
+    "$oid": "62056443f8061bb9786aa9ec"
+  },
+  "Link": "https://blog.ionixxtech.com/how-does-otc-crypto-trading-actually-work/",
+  "Image": "https://blog.ionixxtech.com/wp-content/uploads/2021/09/Blog-4.jpeg",
+  "PubDate": "Thu, 09 Sep 2021 08:26:26 ",
+  "Title": "How does Over the Counter Crypto Trading Actually Work?",
+  "Description": "Although over-the-counter (OTC) stock trading has been around for quite a while, it has only recently made its way into the cryptocurrency arena. Traders started considering this a lucrative trading option for cryptocurrencies around 2014 Read more\nThe post How does Over the Counter Crypto Trading Actually Work? appeared first on ixBlog.\n"
+},{
+  "_id": {
+    "$oid": "62056444f8061bb9786aa9ef"
+  },
+  "Link": "https://blog.ionixxtech.com/the-promising-future-of-crypto-algorithmic-trading/",
+  "Image": "https://blog.ionixxtech.com/wp-content/uploads/2021/09/de2ddbb8-21a0-46c4-95f6-d92c905734c0.jpg",
+  "PubDate": "Fri, 03 Sep 2021 12:42:36 ",
+  "Title": "The Promising Future of Crypto Algorithmic Trading",
+  "Description": "The positive campaign for cryptocurrency has picked up at a feverish pace despite the turbulent economic times we live in – courtesy, the pandemic. And what is even more interesting is how cryptocurrencies have proved Read more\nThe post The Promising Future of Crypto Algorithmic Trading appeared first on ixBlog.\n"
+},{
+  "_id": {
+    "$oid": "62056446f8061bb9786aa9f4"
+  },
+  "Link": "https://blog.ionixxtech.com/how-crypto-algorithmic-trading-works-tips-and-best-practices/",
+  "Image": "https://blog.ionixxtech.com/wp-content/uploads/2021/09/Blog-Banner-2-option-1.jpg",
+  "PubDate": "Thu, 02 Sep 2021 07:03:21 ",
+  "Title": "How Crypto Algorithmic Trading Works: Tips and Best Practices",
+  "Description": "As humans evolve, technology does too. Our lives have become so intertwined with technology that automation has taken over several aspects of it. And crypto trading has not been left far behind. Bitten by the Read more\nThe post How Crypto Algorithmic Trading Works: Tips and Best Practices appeared first on ixBlog.\n"
+},{
+  "_id": {
+    "$oid": "62056447f8061bb9786aa9f8"
+  },
+  "Link": "https://blog.ionixxtech.com/how-to-develop-a-crypto-algorithmic-trading-bot/",
+  "Image": "https://blog.ionixxtech.com/wp-content/uploads/2021/09/Blog-2.jpg",
+  "PubDate": "Thu, 02 Sep 2021 06:36:57 ",
+  "Title": "How to Develop a Crypto Algorithmic Trading Bot",
+  "Description": "Are your eyes set on the crypto market but you’re still kind of on the fence about taking the plunge to dabble with cryptocurrencies? This blog may just be your turning point. Let’s begin by Read more\nThe post How to Develop a Crypto Algorithmic Trading Bot appeared first on ixBlog.\n"
+},{
+  "_id": {
+    "$oid": "62056449f8061bb9786aa9fb"
+  },
+  "Link": "https://blog.ionixxtech.com/developing-mobile-web-applications-when-why-and-how/",
+  "Image": "https://blog.ionixxtech.com/wp-content/uploads/2021/08/app-development-concept-illustration_114360-5035.jpg",
+  "PubDate": "Mon, 09 Aug 2021 09:11:03 ",
+  "Title": "Developing Mobile Web Applications: When, Why, and How",
+  "Description": "Our planet is the home of 7.9 billion people, according to the Live World Population Clock in worldometers.info. Over half of these people have access to smartphones. Studies show that every day more people are Read more\nThe post Developing Mobile Web Applications: When, Why, and How appeared first on ixBlog.\n"
+},{
+  "_id": {
+    "$oid": "6205644af8061bb9786aa9fe"
+  },
+  "Link": "https://blog.ionixxtech.com/benefits-of-developing-single-page-web-applications-using-angularjs/",
+  "Image": "https://blog.ionixxtech.com/wp-content/uploads/2021/07/Benefits-of-Angular-JS.jpg",
+  "PubDate": "Fri, 16 Jul 2021 11:07:24 ",
+  "Title": "Benefits of Developing Single Page Web Applications using AngularJS",
+  "Description": "Whether you want to develop a business website or web app, user experience holds utmost importance. Providing the best user experience is key to user engagement. However, navigation from one page to another and the Read more\nThe post Benefits of Developing Single Page Web Applications using AngularJS appeared first on ixBlog.\n"
+},{
+  "_id": {
+    "$oid": "6205644cf8061bb9786aaa01"
+  },
+  "Link": "https://blog.ionixxtech.com/why-are-major-crypto-exchanges-adopting-margin-trading/",
+  "Image": "https://blog.ionixxtech.com/wp-content/uploads/2021/06/crypto-exchange-margin-Trading.jpg",
+  "PubDate": "Wed, 30 Jun 2021 11:15:39 ",
+  "Title": "Why Are Major Crypto Exchanges Adopting Margin Trading?",
+  "Description": "At present, there are only a handful of cryptocurrency exchanges that offer margin trade. However, with the rising popularity of margin trading, more exchanges are eager to offer these services to attract experienced traders to Read more\nThe post Why Are Major Crypto Exchanges Adopting Margin Trading? appeared first on ixBlog.\n"
+},{
+  "_id": {
+    "$oid": "6205644df8061bb9786aaa03"
+  },
+  "Link": "https://blog.ionixxtech.com/ux-design-as-a-differentiator-for-crypto-trading-platforms/",
+  "Image": "https://blog.ionixxtech.com/wp-content/uploads/2021/06/ux-design-for-crypto-trading.jpg",
+  "PubDate": "Mon, 14 Jun 2021 09:25:02 ",
+  "Title": "UX Design As a Differentiator For Crypto Trading Platforms",
+  "Description": "Accelerating the mainstream adoption of cryptocurrency is one of the far reaching goals that cryptocurrency enthusiasts are currently pursuing. Rising to this challenge, UX designers are also getting equipped with relevant skills and acquainting themselves Read more\nThe post UX Design As a Differentiator For Crypto Trading Platforms appeared first on ixBlog.\n"
+},{
+  "_id": {
+    "$oid": "62056452f8061bb9786aaa0a"
+  },
+  "Link": "https://www.blockedge.io/blog/role-of-blockchain-technology-in-autonomous-vehicles/",
+  "Image": "https://www.blockedge.io/blog/wp-content/uploads/2022/02/blockchain-technology-in-autonomous-vehicles.png",
+  "PubDate": "Fri, 04 Feb 2022 12:56:02 +0000",
+  "Title": "Blockchain technology applications and benefits in the autonomous vehicle segment",
+  "Description": "The automotive landscape is constantly evolving, carmakers are looking for new and improved technologies to better their vehicles and driving experience.\nThe post The Role of Blockchain Technology in Autonomous Vehicles appeared first on Blog.\n"
+},{
+  "_id": {
+    "$oid": "62056454f8061bb9786aaa0d"
+  },
+  "Link": "https://www.blockedge.io/blog/blockchain-solving-automotive-industry-problems/",
+  "Image": "https://www.blockedge.io/blog/wp-content/uploads/2022/02/application-and-benefits-of-blockchain.png",
+  "PubDate": "Tue, 01 Feb 2022 08:52:04 +0000",
+  "Title": "Key challenges in the automotive industry and the blockchain solutions.",
+  "Description": "Blockchain Adoption Challenges The potential of blockchain technology goes beyond cryptocurrency. Enterprises in all sectors, including finance, healthcare, supply\nThe post What Problems Does Blockchain Solve For The Automotive Sector appeared first on Blog.\n"
+},{
+  "_id": {
+    "$oid": "62056456f8061bb9786aaa10"
+  },
+  "Link": "https://www.blockedge.io/blog/webinar-on-blockchain-transformation-for-the-automotive-hosted-by-mobi/",
+  "Image": "https://www.blockedge.io/blog/wp-content/uploads/2022/01/webinar-on-blockchain-transformation-1024x529.png",
+  "PubDate": "Tue, 11 Jan 2022 14:09:20 +0000",
+  "Title": "Webinar on blockchain transformation for automotive hosted by MOBI",
+  "Description": "According to Frost and Sullivan, a market research agency, automotive businesses will spend about $169 billion on implementing new technologies in their organizations\nThe post Blockedge Lecture on Accelerating Blockchain Transformation for the Automotive Industry hosted by MOBI appeared first on Blog.\n"
+},{
+  "_id": {
+    "$oid": "62056459f8061bb9786aaa13"
+  },
+  "Link": "https://www.blockedge.io/blog/top-6-blockchain-use-cases-by-industry/",
+  "Image": "https://www.blockedge.io/blog/wp-content/uploads/2021/12/blockchain-industry-use-cases.jpg",
+  "PubDate": "Fri, 17 Dec 2021 13:51:24 +0000",
+  "Title": "Explore blockchain use cases by industry",
+  "Description": "Businesses today are forced to adapt to the rapid digital transformation. Blockchain is one of the latest breakthrough technologies making the future bright for businesses.\nThe post From pharma to automotive – Explore the top-rated blockchain use cases by industry appeared first on Blog.\n"
+},{
+  "_id": {
+    "$oid": "6205645bf8061bb9786aaa18"
+  },
+  "Link": "https://www.blockedge.io/blog/does-your-supply-chain-need-blockchain/",
+  "Image": "https://www.blockedge.io/blog/wp-content/uploads/2021/12/supply-chain-blockchain.jpg",
+  "PubDate": "Wed, 15 Dec 2021 13:14:54 +0000",
+  "Title": "Does your supply chain need blockchain?",
+  "Description": "If there is one area where blockchain continues to find prominence and support, it is in supply chains. And the reasons are obvious: the promise of unmatchable \nThe post Does Your Supply Chain Need Blockchain? What Blockchain Solution Would Suit Your Value Chain? appeared first on Blog.\n"
+},{
+  "_id": {
+    "$oid": "6205645df8061bb9786aaa1b"
+  },
+  "Link": "https://www.blockedge.io/blog/how-blockchain-will-affect-consumer-and-business-markets/",
+  "Image": "https://www.blockedge.io/blog/wp-content/uploads/2021/11/blockchain-in-enterprise-markets.jpg",
+  "PubDate": "Tue, 02 Nov 2021 14:48:16 +0000",
+  "Title": "How Blockchains will affect Consumer and Enterprise Markets",
+  "Description": "Every day, you find a new DeFi (Decentralized Finance) product getting funded, built upon blockchain networks such as Ethereum. And what do they intend to achieve?\nThe post Into a Tokenized Economy: How Blockchains will affect Consumer & Business Markets appeared first on Blog.\n"
+},{
+  "_id": {
+    "$oid": "62056462f8061bb9786aaa21"
+  },
+  "Link": "https://blog.quillhash.com/2022/01/how-the-paradigm-changing-gamefi-combines-crypto-defi-and-play-to-earn-gaming",
+  "Image": "https://blog.quillhash.com/media/uploads/2022/01/photo_2022-01-28_11-38-59.jpg",
+  "PubDate": "Fri, 28 Jan 2022 11:49:06 +0000",
+  "Title": "How the Paradigm-Changing GameFi Combines Crypto, DeFi and Play-to-Earn Gaming",
+  "Description": "Read Time:  4 minutes New terms are popping out quite fast in a field as innovative as crypto. One gaining a lot of traction is GameFi, a model disrupting the conventional gaming industry. GameFi is blockchain-based monetization of gaming experience, combining cryptocurrencies, DeFi, and play-to-earn NFT crypto game model.  Crypto gaming has revolutionized the way games are played and …\n  How the Paradigm-Changing GameFi Combines Crypto, DeFi and Play-to-Earn Gaming Read More »\nThe post How the Paradigm-Changing GameFi Combines Crypto, DeFi and Play-to-Earn Gaming appeared first on Blog.quillhash.\n"
+},{
+  "_id": {
+    "$oid": "62056463f8061bb9786aaa23"
+  },
+  "Link": "https://blog.quillhash.com/2022/01/discord-hack-emerging-threat-to-nft-transactions",
+  "Image": "https://blog.quillhash.com/media/uploads/2022/01/banner.jpg",
+  "PubDate": "Fri, 21 Jan 2022 04:35:00 +0000",
+  "Title": "Discord Hack – Emerging Threat to NFT Transactions",
+  "Description": "Read Time:  6 minutes The NFT economy has been spreading wings at a pace no one had imagined. This, however, has multiplied the threats NFT buyers and projects have been facing, making them utterly apprehensive of all their investments getting washed out. An emerging menace they have been encountering is hacking Discord accounts. The traction that NFT projects have …\n  Discord Hack – Emerging Threat to NFT Transactions Read More »\nThe post Discord Hack – Emerging Threat to NFT Transactions appeared first on Blog.quillhash.\n"
+},{
+  "_id": {
+    "$oid": "62056465f8061bb9786aaa28"
+  },
+  "Link": "https://blog.quillhash.com/2022/01/beginners-guide-to-smart-contract-auditing-part-1",
+  "Image": "https://blog.quillhash.com/media/uploads/2021/10/cropped-Favicon-2-1-2.png",
+  "PubDate": "Wed, 19 Jan 2022 10:50:26 +0000",
+  "Title": "Beginners Guide to Smart Contract Auditing: Part 1",
+  "Description": "Read Time:  9 minutes Welcome to the Beginners guide to smart contract auditing! One of the best ways to get started with smart contract auditing is to jump in and look at a few common types of vulnerabilities in smart contracts. It would be helpful if you already have a basic understanding of Ethereum’s Solidity programming language. As we …\n  Beginners Guide to Smart Contract Auditing: Part 1 Read More »\nThe post Beginners Guide to Smart Contract Auditing: Part 1 appeared first on Blog.quillhash.\n"
+},{
+  "_id": {
+    "$oid": "62056468f8061bb9786aaa2b"
+  },
+  "Link": "https://blog.quillhash.com/2022/01/lessons-from-the-attack-on-tinyman-largest-dex-on-algorand",
+  "Image": "https://blog.quillhash.com/media/uploads/2021/10/cropped-Favicon-2-1-2.png",
+  "PubDate": "Fri, 14 Jan 2022 12:01:17 +0000",
+  "Title": "Lessons From The Attack On Tinyman, Largest DEX On Algorand",
+  "Description": "Read Time:  5 minutes Crypto hacks continue in 2022 as hackers attack vulnerabilities within different networks, adding to millions of stolen assets. The Algorand community began the year on a sour note following an attack on their decentralized exchange that led to the loss of about $3 million worth of assets. According to reports, on January 1, 2022, unauthorized …\n  Lessons From The Attack On Tinyman, Largest DEX On Algorand Read More »\nThe post Lessons From The Attack On Tinyman, Largest DEX On Algorand appeared first on Blog.quillhash.\n"
+},{
+  "_id": {
+    "$oid": "62056469f8061bb9786aaa2d"
+  },
+  "Link": "https://blog.quillhash.com/2022/01/the-big-four-working-towards-blockchain-auditing",
+  "Image": "https://blog.quillhash.com/media/uploads/2021/10/cropped-Favicon-2-1-2.png",
+  "PubDate": "Fri, 07 Jan 2022 12:04:46 +0000",
+  "Title": "The Big Four Working Towards Blockchain Auditing",
+  "Description": "Read Time:  4 minutes Blockchain and cryptocurrencies within its ecosystem remain phenomenal breakthroughs that have influenced the growth of the creator economy, multichain industries, banking, and fintech sectors. In general, Blockchain has grown to over $4.9 billion, with experts predicting this growth to continue with a Compound Annual Growth Rate (CAGR) of 68.4% to reach $67.4 billion by 2026. …\n  The Big Four Working Towards Blockchain Auditing Read More »\nThe post The Big Four Working Towards Blockchain Auditing appeared first on Blog.quillhash.\n"
+},{
+  "_id": {
+    "$oid": "6205646bf8061bb9786aaa31"
+  },
+  "Link": "https://blog.quillhash.com/2021/12/5-ways-to-ensure-the-security-of-your-crypto-exchange",
+  "Image": "https://blog.quillhash.com/media/uploads/2021/10/cropped-Favicon-2-1-2.png",
+  "PubDate": "Sun, 05 Dec 2021 00:00:00 ",
+  "Title": "5 Ways to Ensure the Security of Your Crypto Exchange",
+  "Description": "Read Time:  4 minutes The cryptocurrency market as a whole has seen explosive growth a decade down the line making many lucky investors rich through different innovations, from price surges to NFTs. However, this growth has not been without challenges. Security remains a significant concern as fraudsters find new ways to hack exchanges and users’ wallets. What makes cryptocurrency …\n  5 Ways to Ensure the Security of Your Crypto Exchange Read More »\nThe post 5 Ways to Ensure the Security of Your Crypto Exchange appeared first on Blog.quillhash.\n"
+},{
+  "_id": {
+    "$oid": "6205646cf8061bb9786aaa36"
+  },
+  "Link": "https://blog.quillhash.com/2021/12/is-socialfi-the-next-buzzword-for-the-web3-0-era",
+  "Image": "https://blog.quillhash.com/media/uploads/2021/10/cropped-Favicon-2-1-2.png",
+  "PubDate": "Fri, 24 Dec 2021 03:32:33 +0000",
+  "Title": "Is SocialFi The Next Buzzword For The Web3.0 Era?",
+  "Description": "Read Time:  4 minutes Blockchain will be a major component of Web3.0, the next generation of the internet. This means that unlike its predecessor Web 2.0, Web 3.0 will be decentralized. Since its introduction, the internet has been of tremendous help in shaping the world at large.  Particularly, the internet has been behind the current social media phenomenon. The …\n  Is SocialFi The Next Buzzword For The Web3.0 Era? Read More »\nThe post Is SocialFi The Next Buzzword For The Web3.0 Era? appeared first on Blog.quillhash.\n"
+},{
+  "_id": {
+    "$oid": "6205646ef8061bb9786aaa3a"
+  },
+  "Link": "https://blog.quillhash.com/2021/12/top-5-crypto-trends-to-watch-for-in-2022",
+  "Image": "https://blog.quillhash.com/media/uploads/2021/10/cropped-Favicon-2-1-2.png",
+  "PubDate": "Fri, 17 Dec 2021 12:41:18 +0000",
+  "Title": "Top 5 Crypto Trends To Watch For In 2022",
+  "Description": "Read Time:  5 minutes As the year comes to an end, the blockchain industry can appreciate the tremendous growth it has seen in the last twelve months and look forward to the endless possibilities in the coming year.  In 2021, blockchain and its technologies grew to $4.9 billion as the industry enjoyed a surge in mainstream adoption and found …\n  Top 5 Crypto Trends To Watch For In 2022 Read More »\nThe post Top 5 Crypto Trends To Watch For In 2022 appeared first on Blog.quillhash.\n"
+},{
+  "_id": {
+    "$oid": "62056470f8061bb9786aaa3f"
+  },
+  "Link": "https://blog.quillhash.com/2021/12/are-current-auditing-standards-fit-for-the-growing-use-cases-of-blockchain",
+  "Image": "https://blog.quillhash.com/media/uploads/2021/10/cropped-Favicon-2-1-2.png",
+  "PubDate": "Fri, 10 Dec 2021 14:07:01 +0000",
+  "Title": "Are Current Auditing Standards Fit For The Growing Use Cases Of Blockchain?",
+  "Description": "Read Time:  4 minutes 2020-2021 has seen a tremendous increase in blockchain use cases as developers found new technology applications. While 2020 saw the rise of decentralized finance, 2021 has focused more on creativity and the transition from physical to digital application through non-fungible tokens (NFTs), which have played a role in the emergence of metaverse. While blockchain came …\n  Are Current Auditing Standards Fit For The Growing Use Cases Of Blockchain? Read More »\nThe post Are Current Auditing Standards Fit For The Growing Use Cases Of Blockchain? appeared first on Blog.quillhash.\n"
+},{
+  "_id": {
+    "$oid": "62056472f8061bb9786aaa43"
+  },
+  "Link": "https://blog.quillhash.com/2021/11/vulnerabilities-that-can-shake-off-the-metaverse-and-their-solutions",
+  "Image": "https://blog.quillhash.com/media/uploads/2021/10/cropped-Favicon-2-1-2.png",
+  "PubDate": "Fri, 26 Nov 2021 11:47:28 +0000",
+  "Title": "Vulnerabilities that can Shake Off the Metaverse, and their Solutions",
+  "Description": "Read Time:  4 minutes The metaverse has been a hot topic of discussion, with experts predicting that it will be worth about $85 billion by 2025. This has drawn the attention of the likes of Microsoft, Facebook, Nvidia, Microsoft, Magic Leap, and other giant wits. The word metaverse combines the prefix “meta” which means beyond and “universe“. The metaverse …\n  Vulnerabilities that can Shake Off the Metaverse, and their Solutions Read More »\nThe post Vulnerabilities that can Shake Off the Metaverse, and their Solutions appeared first on Blog.quillhash.\n"
+},{
+  "_id": {
+    "$oid": "62056477f8061bb9786aaa49"
+  },
+  "Link": "https://blog.coinfund.io/primexlabs-investment-thesis-56ea7d7f085d?source=rss----f5f136d48fc3---4",
+  "Image": "https://miro.medium.com/max/1200/0*RTj4TIcjRn5nCJo3",
+  "PubDate": "Mon, 07 Feb 2022 15:20:24 +0000",
+  "Title": "PrimeXLabs Investment Thesis",
+  "Description": "LEO fell for a second consecutive session, as crypto markets traded with higher levels of volatility on Thursday. THETA ignored this uncertainty and climbed by close to 20% today. Biggest gainers Following turbulence during today’s trading session, the global cryptocurrency market capitalisation was able to climb, and was around 1% higher as of writing. . […]"
+},{
+  "_id": {
+    "$oid": "6205647af8061bb9786aaa4e"
+  },
+  "Link": "https://blog.coinfund.io/giant-is-building-a-global-resource-network-to-coordinate-tokenize-and-financialize-connectivity-8d67ce1d0ecf?source=rss----f5f136d48fc3---4",
+  "Image": "https://miro.medium.com/max/1200/0*TlHjvAvPrMX-Ti5v",
+  "PubDate": "Thu, 16 Dec 2021 15:38:34 +0000",
+  "Title": "GIANT is Building a Global Resource Network to Coordinate, Tokenize, and Financialize Connectivity Access",
+  "Description": "LEO fell for a second consecutive session, as crypto markets traded with higher levels of volatility on Thursday. THETA ignored this uncertainty and climbed by close to 20% today. Biggest gainers Following turbulence during today’s trading session, the global cryptocurrency market capitalisation was able to climb, and was around 1% higher as of writing. . […]"
+},{
+  "_id": {
+    "$oid": "6205647df8061bb9786aaa51"
+  },
+  "Link": "https://blog.coinfund.io/daos-what-the-esg-movement-can-learn-from-blockchain-governance-a7d0c7dbccde?source=rss----f5f136d48fc3---4",
+  "Image": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+  "PubDate": "Mon, 15 Nov 2021 16:22:58 +0000",
+  "Title": "DAOs: What the ESG movement can learn from blockchain governance",
+  "Description": "LEO fell for a second consecutive session, as crypto markets traded with higher levels of volatility on Thursday. THETA ignored this uncertainty and climbed by close to 20% today. Biggest gainers Following turbulence during today’s trading session, the global cryptocurrency market capitalisation was able to climb, and was around 1% higher as of writing. . […]"
+},{
+  "_id": {
+    "$oid": "62056480f8061bb9786aaa55"
+  },
+  "Link": "https://blog.coinfund.io/popsicle-finances-approach-to-dex-liquidity-provider-yield-optimization-will-open-up-defi-to-a-new-f70c6fbeb7d8?source=rss----f5f136d48fc3---4",
+  "Image": "https://miro.medium.com/max/1200/1*vmQ2TV_n4NuOPtG_ZoI9oA.jpeg",
+  "PubDate": "Fri, 01 Oct 2021 15:18:50 +0000",
+  "Title": "Popsicle Finance’s Approach to DEX Liquidity Provider Yield Optimization Will Open Up DeFi to a New Set of Users and Capital",
+  "Description": "LEO fell for a second consecutive session, as crypto markets traded with higher levels of volatility on Thursday. THETA ignored this uncertainty and climbed by close to 20% today. Biggest gainers Following turbulence during today’s trading session, the global cryptocurrency market capitalisation was able to climb, and was around 1% higher as of writing. . […]"
+},{
+  "_id": {
+    "$oid": "62056483f8061bb9786aaa59"
+  },
+  "Link": "https://blog.coinfund.io/joining-coinfund-b7dfcb45348d?source=rss----f5f136d48fc3---4",
+  "Image": "https://miro.medium.com/max/1000/0*2Ud6TUVV3y5V9Aov.jpeg",
+  "PubDate": "Wed, 22 Sep 2021 14:51:14 +0000",
+  "Title": "Joining CoinFund",
+  "Description": "LEO fell for a second consecutive session, as crypto markets traded with higher levels of volatility on Thursday. THETA ignored this uncertainty and climbed by close to 20% today. Biggest gainers Following turbulence during today’s trading session, the global cryptocurrency market capitalisation was able to climb, and was around 1% higher as of writing. . […]"
+},{
+  "_id": {
+    "$oid": "62056485f8061bb9786aaa5c"
+  },
+  "Link": "https://blog.coinfund.io/why-i-joined-coinfund-christopher-perkins-president-d453e7bbf063?source=rss----f5f136d48fc3---4",
+  "Image": "https://miro.medium.com/max/1200/1*ZcrUr-G5FyGLRIttdHDWIg.png",
+  "PubDate": "Thu, 16 Sep 2021 18:27:20 +0000",
+  "Title": "Why I joined CoinFund — Christopher Perkins, President",
+  "Description": "LEO fell for a second consecutive session, as crypto markets traded with higher levels of volatility on Thursday. THETA ignored this uncertainty and climbed by close to 20% today. Biggest gainers Following turbulence during today’s trading session, the global cryptocurrency market capitalisation was able to climb, and was around 1% higher as of writing. . […]"
+},{
+  "_id": {
+    "$oid": "62056486f8061bb9786aaa63"
+  },
+  "Link": "https://blog.coinfund.io/claystacks-novel-liquid-staking-architecture-will-bring-new-users-to-the-staking-economy-e97ed2e38ab?source=rss----f5f136d48fc3---4",
+  "Image": "https://miro.medium.com/max/1200/1*yNvDmXm8dNVSUKJDbQSYWw.png",
+  "PubDate": "Tue, 13 Jul 2021 13:50:23 +0000",
+  "Title": "ClayStack’s Novel Liquid Staking Architecture Will Bring New Users to the Staking Economy",
+  "Description": "LEO fell for a second consecutive session, as crypto markets traded with higher levels of volatility on Thursday. THETA ignored this uncertainty and climbed by close to 20% today. Biggest gainers Following turbulence during today’s trading session, the global cryptocurrency market capitalisation was able to climb, and was around 1% higher as of writing. . […]"
+},{
+  "_id": {
+    "$oid": "62056717f8061bb9786aac72"
+  },
+  "Link": "https://blog.coinfund.io/rarible-series-a-on-to-the-next-set-of-innovations-195d25190a78?source=rss----f5f136d48fc3---4",
+  "Description": "Rarible’s marketplace and NFT exchange protocol continue to stay ahead of the trendContinue reading on The CoinFund Blog »",
+  "Image": "https://miro.medium.com/max/400/1*nYQp3nGrOmK_L1qHwtvRPQ.jpeg",
+  "PubDate": "Fri, 25 Jun 2021 16:20:35 +0000",
+  "Title": "Rarible Series A: On to the next set of innovations"
+},{
+  "_id": {
+    "$oid": "6205671bf8061bb9786aac79"
+  },
+  "Link": "https://www.blockchainappfactory.com/blog/discord-marketing-efficient-way-to-promote-nft-projects/",
+  "Description": "NFT Discord Marketing! A new innovative tech that is completely ruling the business community. Discord is a platform that is widely used by gamers. Discord is being used exclusively for business purposes, and NFT holds an upper hand with the Discord marketing services. Discord is set to be the leader in community building which ensures… Read More »Discord Marketing – Efficient way to Promote NFT Projects\nThe post Discord Marketing – Efficient way to Promote NFT Projects appeared first on Blockchain App Factory.\n",
+  "Image": "http://www.blockchainappfactory.com/blog/wp-content/uploads/2022/02/Post-04-02.jpg",
+  "PubDate": "Thu, 10 Feb 2022 12:03:26 +0000",
+  "Title": "Discord Marketing – Efficient way to Promote NFT Projects"
+},{
+  "_id": {
+    "$oid": "6205671cf8061bb9786aac7e"
+  },
+  "Link": "https://www.blockchainappfactory.com/blog/nft-ticketing-a-new-beginning-in-the-family-of-fortune/",
+  "Description": "NFT Ticketing platform The vision of NFTs isn’t supposed to be limited within the trading circle, are they? From being a token of an expensive rarity to one of the prominent dominative technology, the NFTs are evolving as a monstrous future. The people started adopting the name NFT as its use cases are continuously utilized… Read More »NFT Ticketing. A new beginning in the family of Fortune\nThe post NFT Ticketing. A new beginning in the family of Fortune appeared first on Blockchain App Factory.\n",
+  "Image": "http://www.blockchainappfactory.com/blog/wp-content/uploads/2022/02/31-02.jpg",
+  "PubDate": "Wed, 02 Feb 2022 11:50:46 +0000",
+  "Title": "NFT Ticketing. A new beginning in the family of Fortune"
+},{
+  "_id": {
+    "$oid": "6205671df8061bb9786aac81"
+  },
+  "Link": "https://www.blockchainappfactory.com/blog/nft-platform-like-mekaverse-fortunes-from-the-fictional-characters/",
+  "Description": "A next-gen NFT platform like Mekaverse will show the world how NFTs blend in nature and can aid the alternative universe with efficiency. The potential and efficiency of the NFT don’t need an introduction, in reality, every day. And NFT never fails to feature in the flashboards. The well-known celebrities or a greater MNC is… Read More »NFT Platform like Mekaverse – Fortunes from the fictional characters\nThe post NFT Platform like Mekaverse – Fortunes from the fictional characters appeared first on Blockchain App Factory.\n",
+  "Image": "http://www.blockchainappfactory.com/blog/wp-content/uploads/2022/01/Post-27-2.jpg",
+  "PubDate": "Mon, 31 Jan 2022 12:49:04 +0000",
+  "Title": "NFT Platform like Mekaverse – Fortunes from the fictional characters"
+},{
+  "_id": {
+    "$oid": "6205671ef8061bb9786aac84"
+  },
+  "Link": "https://www.blockchainappfactory.com/blog/nft-in-2022-the-best-business-model-we-could-offer-to-limitless-victories/",
+  "Description": "NFT Business Ideas of 2022 The world has seen many new developments, different centered advancements, but one good, well-established tech that created an impact in the digital and the financial architecture of the entire world is crypto. The digitally encrypted tokens with different characteristics are influencing the market of the modern world with maximum efficiency.… Read More »NFT in 2022 – The best Business model we could offer to limitless victories.\nThe post NFT in 2022 – The best Business model we could offer to limitless victories. appeared first on Blockchain App Factory.\n",
+  "Image": "http://www.blockchainappfactory.com/blog/wp-content/uploads/2022/01/post-20-1-1.jpg",
+  "PubDate": "Tue, 25 Jan 2022 11:10:52 +0000",
+  "Title": "NFT in 2022 – The best Business model we could offer to limitless victories."
+},{
+  "_id": {
+    "$oid": "6205671ff8061bb9786aac87"
+  },
+  "Link": "https://www.blockchainappfactory.com/blog/nft-gaming-platform-blockchain-app-factorys-exclusive-nft-games-hub/",
+  "Description": "The extension of NFTs is making its way through the crypto era with the full potential in the market. From exclusiveness to supply chain, the NFTs are blending them into any kind of requirements. The NFT gaming platform is the base & initial step to the advancement of the NFT technology in Metaverse or the… Read More »NFT Gaming Platform – Blockchain App Factory’s Exclusive NFT Games Hub\nThe post NFT Gaming Platform – Blockchain App Factory’s Exclusive NFT Games Hub appeared first on Blockchain App Factory.\n",
+  "Image": "http://www.blockchainappfactory.com/blog/wp-content/uploads/2022/01/Post-17-3.jpg",
+  "PubDate": "Mon, 17 Jan 2022 12:09:54 +0000",
+  "Title": "BAF's Exclusive NFT Games Hub"
+},{
+  "_id": {
+    "$oid": "62056721f8061bb9786aac8a"
+  },
+  "Link": "https://www.blockchainappfactory.com/blog/sorare-like-nft-marketplace-enjoy-and-earn-with-the-best-sports-based-marketplace/",
+  "Description": "Brining in, Innovation and enhancements trading NFT with Sorare-like NFT marketplace Market growth is the grading scale that defines the survival and the future demand of a particular product or service. And The market growth is also in the position to decide the success of those particular technologies or products. When this case is applied… Read More »Sorare like NFT marketplace – Enjoy and Earn with the best sports-based Marketplace\nThe post Sorare like NFT marketplace – Enjoy and Earn with the best sports-based Marketplace appeared first on Blockchain App Factory.\n",
+  "Image": "http://www.blockchainappfactory.com/blog/wp-content/uploads/2022/01/Blog-Post_110122.jpg",
+  "PubDate": "Wed, 12 Jan 2022 09:59:50 +0000",
+  "Title": "Enjoy and Earn with the best Sorare like NFT Marketplace"
+},{
+  "_id": {
+    "$oid": "62056722f8061bb9786aac8c"
+  },
+  "Link": "https://www.blockchainappfactory.com/blog/initial-game-offering-new-epoch-in-nft-gaming-space/",
+  "Description": "The exposure of the Gaming industry is eventually larger. With the smart handset, people have hand-made more than 3.4 billion gamers engaging the gaming industry all over the world. This makes the gaming industry an iconic and legendary ecosystem. There are many evolutions taking place in the gaming ecosystem, from 2-dimensional gaming to open-world 3d… Read More »Initial Game Offering – New epoch in NFT Gaming space\nThe post Initial Game Offering – New epoch in NFT Gaming space appeared first on Blockchain App Factory.\n",
+  "Image": "http://www.blockchainappfactory.com/blog/wp-content/uploads/2022/01/Blog-Post_060122-copy.jpg",
+  "PubDate": "Tue, 11 Jan 2022 07:13:59 +0000",
+  "Title": "Initial Game Offering – New epoch in NFT Gaming space"
+},{
+  "_id": {
+    "$oid": "62056723f8061bb9786aac8e"
+  },
+  "Link": "https://www.blockchainappfactory.com/blog/nft-gaming-platform-an-independent-ecosystem-in-the-crypto-space/",
+  "Description": "The gaming industry has been considered to be a fun and entertaining place where people engage with a virtual character and play along with the character to the end. The assets the player gained and the perks he got in the game will vanish after he completes the game or comes out of the game.… Read More »NFT Gaming Platform – An independent ecosystem in the crypto space.\nThe post NFT Gaming Platform – An independent ecosystem in the crypto space. appeared first on Blockchain App Factory.\n",
+  "Image": "http://www.blockchainappfactory.com/blog/wp-content/uploads/2021/11/Blog-Post_301121-1.jpg",
+  "PubDate": "Wed, 01 Dec 2021 15:02:42 +0000",
+  "Title": "NFT Gaming Platform – An independent ecosystem in the crypto space."
+},{
+  "_id": {
+    "$oid": "62056725f8061bb9786aac91"
+  },
+  "Link": "https://www.blockchainappfactory.com/blog/nft-for-dreams-a-dream-nft-platform-to-make-your-dreams-into-reality-with-nft/",
+  "Description": "NFT for Dreams Non-Fungible Tokens, What not is possible here? The question is raised in every mind, who closely watches the crypto space continuously. The need for NFTs is growing higher and higher in all aspects. The major perk of the NFT is that it can’t be kept biased. Celebrities to artists who haven’t met… Read More »NFT for Dreams – A Dream NFT platform to make your dreams  into reality with NFT\nThe post NFT for Dreams – A Dream NFT platform to make your dreams  into reality with NFT appeared first on Blockchain App Factory.\n",
+  "Image": "http://www.blockchainappfactory.com/blog/wp-content/uploads/2021/11/Blog-Post_121121.jpg",
+  "PubDate": "Mon, 15 Nov 2021 14:27:43 +0000",
+  "Title": "A Dream NFT platform to make your dreams into reality with NFT"
+},{
+  "_id": {
+    "$oid": "62056726f8061bb9786aac95"
+  },
+  "Link": "https://www.blockchainappfactory.com/blog/nft-marketing-comprehensive-guide/",
+  "Description": "NFT and NFT marketing is emerging as the most wanted business of the crypto world. The Non-fungible tokens have the world the real example of the exclusiveness and the need for blockchain in the world. People always value things that are unique. NFT is definitely such a thing that gets more attention among the people.… Read More »NFT Marketing Step By Step Guide – 2022\nThe post NFT Marketing Step By Step Guide – 2022 appeared first on Blockchain App Factory.\n",
+  "Image": "http://www.blockchainappfactory.com/blog/wp-content/uploads/2021/10/Blog-Post_261021_01.jpg",
+  "PubDate": "Fri, 29 Oct 2021 06:45:11 +0000",
+  "Title": "A Comprehensive Guide To NFT Marketing"
+},{
+  "_id": {
+    "$oid": "62056728f8061bb9786aac99"
+  },
+  "Link": "https://101blockchains.com/g2-best-software-awards-2022/",
+  "Description": "101 Blockchains has emerged as one of the pioneers in the field of blockchain education and research in recent times. With a wide assortment of learning resources on blockchain technology, we have evolved as a reliable platform for blockchain training. Over the years, the appreciation of blockchain practitioners and our beloved learners has been fuelling our [...]\nThe post 101 Blockchains Earned #16 on G2’s list of Best Fastest Growing Products for 2022 appeared first on 101 Blockchains.\n",
+  "Image": "https://101blockchains.com/wp-content/uploads/2022/02/g2-best-software-2021-asset-twitter-1200x675-blue-2.png",
+  "PubDate": "Thu, 10 Feb 2022 09:45:52 +0000",
+  "Title": "101 Blockchains Earned #16 on G2’s list of Best Fastest Growing Products for 2022"
+},{
+  "_id": {
+    "$oid": "62056729f8061bb9786aac9b"
+  },
+  "Link": "https://101blockchains.com/metaverse-for-education/",
+  "Description": "The applications of metaverse are not only limited to the gaming sector but there is a lot metaverse can do for the education sector. Let’s find out what is the scope of metaverse for education sector.  The term “Metaverse” has been in the news since many big companies like Facebook brought it up. In the [...]\nThe post Metaverse for Education – How will the metaverse change education? appeared first on 101 Blockchains.\n",
+  "Image": "https://101blockchains.com/wp-content/uploads/2022/02/metaverse-for-education.png",
+  "PubDate": "Thu, 10 Feb 2022 04:01:53 +0000",
+  "Title": "Metaverse for Education – How will the metaverse change education?"
+},{
+  "_id": {
+    "$oid": "62056729f8061bb9786aac9d"
+  },
+  "Link": "https://101blockchains.com/aave/",
+  "Description": "What is Aave? What is Aave used for? How does Aave work? Read on to find answers to all such questions.  Decentralized finance or DeFi is making news everywhere in the crypto space for all the right reasons. Many new DeFi solutions are presenting exclusive counterparts to conventional financial services such as lending, borrowing, and [...]\nThe post Know Everything about AAVE appeared first on 101 Blockchains.\n",
+  "Image": "https://101blockchains.com/wp-content/uploads/2022/01/aave-open-source-defi-protocol.png",
+  "PubDate": "Wed, 09 Feb 2022 04:15:17 +0000",
+  "Title": "Know Everything about AAVE"
+},{
+  "_id": {
+    "$oid": "6205672af8061bb9786aaca0"
+  },
+  "Link": "https://101blockchains.com/top-dao-tokens/",
+  "Description": "Struggling to find the best DAP tokens? Here’s the stop! Check out these top DAO tokens now with all the details and choose the best one! The constant growth of new trends in the blockchain and crypto space brings many promising opportunities. Enterprises and people all over the world are recognizing the potential of blockchain [...]\nThe post Top 10 Decentralized Autonomous Organization (DAO) Tokens appeared first on 101 Blockchains.\n",
+  "Image": "https://101blockchains.com/wp-content/uploads/2022/01/dao-tokens.png",
+  "PubDate": "Tue, 08 Feb 2022 04:15:08 +0000",
+  "Title": "Top 10 Decentralized Autonomous Organization (DAO) Tokens"
+},{
+  "_id": {
+    "$oid": "6205672af8061bb9786aaca3"
+  },
+  "Link": "https://101blockchains.com/solana-blockchain/",
+  "Description": "Did you recently come across the term, Solana? Learn more in detail about Solana and how it works. Cryptocurrencies marked the beginning of a completely new era for finance and technology in general. The crypto sector takes away intermediaries from the design of conventional financial services by introducing peer-to-peer transactions. However, popular cryptocurrencies such as [...]\nThe post What Is Solana And How Does It Work? appeared first on 101 Blockchains.\n",
+  "Image": "https://101blockchains.com/wp-content/uploads/2022/01/solana-a-blockchain-platform.png",
+  "PubDate": "Mon, 07 Feb 2022 04:34:07 +0000",
+  "Title": "What Is Solana And How Does It Work?"
+},{
+  "_id": {
+    "$oid": "6205672bf8061bb9786aaca5"
+  },
+  "Link": "https://101blockchains.com/decentraland-vs-sandbox/",
+  "Description": "Decentraland and Sandbox are the key terms in the metaverse domain. Let’s dive in to understand the differences i.e. Decentraland vs Sandbox. The most prominent term you might come across in all discussions on technology in present times is the metaverse. While the whole tech ecosystem awaits the arrival of the metaverse in its totality, [...]\nThe post Decentraland (MANA) vs Sandbox (SAND) – Which Metaverse is the Best? appeared first on 101 Blockchains.\n",
+  "Image": "https://101blockchains.com/wp-content/uploads/2022/02/decentraland-mana-vs-sandbox-sand.png",
+  "PubDate": "Fri, 04 Feb 2022 04:20:56 +0000",
+  "Title": "Decentraland (MANA) vs Sandbox (SAND) – Which Metaverse is the Best?"
+},{
+  "_id": {
+    "$oid": "6205672bf8061bb9786aaca7"
+  },
+  "Link": "https://101blockchains.com/metaverse-for-advertising/",
+  "Description": "Wondering if metaverse advertising is really going to be the next big thing? Learn the applications of metaverse for advertising to find the answer! The massive scale of innovation in technology at a rapid scale has undoubtedly presented many emerging opportunities. Metaverse is probably the best example of technological innovation tailored for transforming the way [...]\nThe post Metaverse for Advertising – Is Metaverse Advertising the Next Big Thing? appeared first on 101 Blockchains.\n",
+  "Image": "https://101blockchains.com/wp-content/uploads/2022/02/metaverse-for-advertising.png",
+  "PubDate": "Fri, 04 Feb 2022 04:15:58 +0000",
+  "Title": "Metaverse for Advertising – Is Metaverse Advertising the Next Big Thing?"
+},{
+  "_id": {
+    "$oid": "6205672cf8061bb9786aaca9"
+  },
+  "Link": "https://101blockchains.com/metaverse-for-retail/",
+  "Description": "What are the use cases of metaverse for the retail industry? Check out the use cases of metaverse for retail. The amazing wonders of technology have unparalleled surprises for human civilization in every era. Starting from the development of industrial machinery to the expansion of the internet, technology has shaped many facets of our history [...]\nThe post Metaverse for Retail – Is the Future of Retail in the Metaverse? appeared first on 101 Blockchains.\n",
+  "Image": "https://101blockchains.com/wp-content/uploads/2022/02/metaverse-for-retail.png",
+  "PubDate": "Fri, 04 Feb 2022 04:10:29 +0000",
+  "Title": "Metaverse for Retail – Is the Future of Retail in the Metaverse?"
+},{
+  "_id": {
+    "$oid": "6205672df8061bb9786aacab"
+  },
+  "Link": "https://101blockchains.com/top-metaverse-applications/",
+  "Description": "The recent highlights in tech news worldwide have been focused on one term, in particular, i.e., the “metaverse.” The concept of a shared virtual world with promises of engaging experiences in the form of digital avatars is definitely a groundbreaking proposition. As big names in the tech world such as NVidia, Microsoft, Sony, and Facebook [...]\nThe post Top 5 Metaverse Applications appeared first on 101 Blockchains.\n",
+  "Image": "https://101blockchains.com/wp-content/uploads/2022/02/top-metaverse-applications.png",
+  "PubDate": "Thu, 03 Feb 2022 05:00:02 +0000",
+  "Title": "Top 5 Metaverse Applications"
+},{
+  "_id": {
+    "$oid": "6205672df8061bb9786aacad"
+  },
+  "Link": "https://101blockchains.com/metaverse-technology/",
+  "Description": "What is Metaverse? How will metaverse shape up the future? Let’s dive into the definitive guide of Metaverse technology.  Connectivity is one of the most prominent benefits we have drawn from the use of technology over the years. Today, people all over the world are connected with each other through smartphones, tablets, laptops, and personal [...]\nThe post Metaverse Technology – A Definitive Guide appeared first on 101 Blockchains.\n",
+  "Image": "https://101blockchains.com/wp-content/uploads/2022/02/metaverse-technology.png",
+  "PubDate": "Wed, 02 Feb 2022 05:00:31 +0000",
+  "Title": "Metaverse Technology – A Definitive Guide"
+},{
+  "_id": {
+    "$oid": "62056732f8061bb9786aacb4"
+  },
+  "Link": "https://www.blockchain-council.org/info/5-features-of-the-perfect-core-banking-system-for-retail-banks/",
+  "Description": "At present, rapidly changing technology paradigms, customer demographics, and client and market demands are redefining the shape of contemporary banking. A majority of today’s customers are digital natives looking for mobile, accessible financial services that integrate seamlessly with their daily routines. There is also a growing demand for more involved, personalized service and support that … Read More",
+  "Image": "https://www.blockchain-council.org/wp-content/uploads/2022/02/5-Features-of-the-Perfect-Core-Banking-System-for-Retail-Banks.png",
+  "PubDate": "Thu, 10 Feb 2022 17:54:24 +0000",
+  "Title": "5 Features of the Perfect Core Banking System for Retail Banks"
+},{
+  "_id": {
+    "$oid": "62056735f8061bb9786aacb8"
+  },
+  "Link": "https://www.blockchain-council.org/news/twitter-invests-20m-in-bitcoin-payment-processor-opennode/",
+  "Description": "OpenNode, a crypto startup that helps merchants accept bitcoin payments from customers, has raised $20 million in a Series A funding round, raising its value to $220 million. Twitter is making its first foray into the payment firm’s cap table, as the social media company has always been interested in playing a meaningful role in … Read More",
+  "Image": "https://www.blockchain-council.org/wp-content/uploads/2022/02/Twitter-invests-20M-in-Bitcoin-Payment-Processor-OpenNode-news-emailer-1.jpg",
+  "PubDate": "Thu, 10 Feb 2022 11:51:31 +0000",
+  "Title": "Twitter invests $20M in Bitcoin Payment Processor OpenNode"
+},{
+  "_id": {
+    "$oid": "62056737f8061bb9786aacba"
+  },
+  "Link": "https://www.blockchain-council.org/news/tap-to-pay-feature-by-apple-to-make-merchants-accept-crypto-payments/",
+  "Description": "One of the world’s biggest technology firms, Apple Inc. is all set to surprise iPhone users with the latest gift offering dedicated to cryptocurrencies. With the newly-launched ‘Tap to Pay’ feature, Apple is looking forward to allowing millions of US merchants, irrespective of their size, to facilitate contactless payments related to a variety of payment … Read More",
+  "Image": "https://www.blockchain-council.org/wp-content/uploads/2022/02/Tap-to-Pay-Feature-By-Apple-To-make-Merchants-Accept-Crypto-Payments-news-emailer.jpg",
+  "PubDate": "Thu, 10 Feb 2022 11:08:14 +0000",
+  "Title": "Tap to Pay Feature By Apple To make Merchants Accept Crypto Payments"
+},{
+  "_id": {
+    "$oid": "62056738f8061bb9786aacbc"
+  },
+  "Link": "https://www.blockchain-council.org/news/crypto-com-emerges-as-the-official-title-partner-of-the-f1-miami-grand-prix/",
+  "Description": "Working as a globally-acclaimed exchange portal offering a safe crypto trading experience, Crypto.com has cracked a strategic deal with Formula 1 to strengthen its hold in the sports sector. The popular cryptocurrency exchange has become the official title partner of the forthcoming Formula 1 Miami Grand Prix. With this collaboration, Crypto.com is looking forward to … Read More",
+  "Image": "https://www.blockchain-council.org/wp-content/uploads/2022/02/Crypto.Com-Emerges-as-The-Official-Title-Partner-Of-The-F1-Miami-Grand-Prix-news-emailer.jpg",
+  "PubDate": "Thu, 10 Feb 2022 10:37:29 +0000",
+  "Title": "Crypto.Com Emerges as The Official Title Partner Of The F1 Miami Grand Prix"
+},{
+  "_id": {
+    "$oid": "6205673bf8061bb9786aacc1"
+  },
+  "Link": "https://www.blockchain-council.org/news/us-national-figure-skating-starts-accepting-bitcoin-donations/",
+  "Description": "It seems that cryptocurrencies have taken the top slot when it comes to donations, charities, and related social causes for people and organizations from across the world. The latest news in this regard involves the chief governing power for the game of figure skating in the United States, the U.S Figure Skating, as the authority … Read More",
+  "Image": "https://www.blockchain-council.org/wp-content/uploads/2022/02/US-National-Figure-Skating-starts-accepting-Bitcoin-Donations-news-emailer.jpg",
+  "PubDate": "Wed, 09 Feb 2022 10:42:11 +0000",
+  "Title": "US National Figure Skating starts accepting Bitcoin Donations"
+},{
+  "_id": {
+    "$oid": "6205673df8061bb9786aacc4"
+  },
+  "Link": "https://www.blockchain-council.org/news/paypal-sets-up-an-advisory-council-to-support-its-crypto-and-blockchain-products/",
+  "Description": "Where the global economic cluster is fast integrating cryptocurrencies in its core structure, payment giant PayPal has played a strategic card to explore the decentralized asset industry. Hailing from the United States, PayPal has announced plans to establish an advisory council of experts to diversify its efforts across the crypto and blockchain sector. Undoubtedly, PayPal … Read More",
+  "Image": "https://www.blockchain-council.org/wp-content/uploads/2022/02/PayPal-sets-up-an-advisory-council-to-support-its-crypto-and-blockchain-products-news-emailer.jpg",
+  "PubDate": "Wed, 09 Feb 2022 10:11:53 +0000",
+  "Title": "PayPal sets up an advisory council to support its crypto and blockchain products"
+},{
+  "_id": {
+    "$oid": "62056740f8061bb9786aacc8"
+  },
+  "Link": "https://www.blockchain-council.org/news/polkadot-plans-to-boost-it-ecosystem-and-web3-platform/",
+  "Description": "Polkadot, the blockchain network with the lowest carbon footprint, has set aside $21 million for ecosystem development.   A brief about Polkadot   Polkadot (DOT) fulfills three distinct purposes: governance, staking, and bonding. The Web3 Foundation launched Polkadot as an open-source project in 2005. The Polkadot project envisions a Web in which each user’s data … Read More",
+  "Image": "https://www.blockchain-council.org/wp-content/uploads/2022/02/Polkadot-Plans-to-Boost-it-ecosystem-and-Web3-platform-news-emailer.jpg",
+  "PubDate": "Wed, 09 Feb 2022 09:35:28 +0000",
+  "Title": "Polkadot Plans to Boost it ecosystem and Web3 platform"
+},{
+  "_id": {
+    "$oid": "62056742f8061bb9786aacca"
+  },
+  "Link": "https://www.blockchain-council.org/blockchain/what-should-you-know-before-entering-metaverse-real-estate/",
+  "Description": "Digital assets like music, art, clothing, and even real estate may directly be purchased and sold on both of these websites.   The idea of valuing digital assets is new for most of us. How could we possibly employ non-tangible real estate in our lives? They’ll need locations to visit in the Metaverse in the … Read More",
+  "Image": "https://www.blockchain-council.org/wp-content/uploads/2022/02/What-Should-You-Know-Before-Entering-Metaverse-Real-Estate-01.png",
+  "PubDate": "Wed, 09 Feb 2022 06:36:33 +0000",
+  "Title": "What Should You Know Before Entering Metaverse Real Estate?"
+},{
+  "_id": {
+    "$oid": "62056744f8061bb9786aaccf"
+  },
+  "Link": "https://www.blockchain-council.org/news/ftx-us-crypto-exchange-plans-to-giveaway-btc-as-part-of-superbowl-ad-campaign/",
+  "Description": "While the global crypto industry continues to grow and expand, firms are coming up with new ideas involving crypto to attract customers. In a recent development, leading cryptocurrency exchange FTX.US has announced an exciting giveaway event for traders as part of its advertising campaign scheduled for February 13, 2022, Super Bowl LVI. The exchange has … Read More",
+  "Image": "https://www.blockchain-council.org/wp-content/uploads/2022/02/FTX.US-Crypto-Exchange-Plans-to-Giveaway-BTC-as-Part-of-Superbowl-Ad-Campaign-news-emailer.jpg",
+  "PubDate": "Tue, 08 Feb 2022 14:06:36 +0000",
+  "Title": "FTX.US Crypto Exchange Plans to Giveaway BTC as Part of Superbowl Ad Campaign"
+},{
+  "_id": {
+    "$oid": "62056747f8061bb9786aacd2"
+  },
+  "Link": "https://www.blockchain-council.org/news/softbank-supported-drivewealth-launches-2-subsidiaries-to-enter-crypto-hub/",
+  "Description": "Working as a top-tier stock brokerage firm supported by Japanese tech conglomerate Softbank, DriveWealth is all set to mark its entry into the billion-dollar crypto industry. To support its diverse vision, the company has announced the launch of two subsidiary concerns that will help the partner firms to provide crypto trading services to retail investors. … Read More",
+  "Image": "https://www.blockchain-council.org/wp-content/uploads/2022/02/Softbank-Supported-DriveWealth-Launches-2-Subsidiaries-to-Enter-Crypto-Hub-news-emailer.jpg",
+  "PubDate": "Tue, 08 Feb 2022 13:47:55 +0000",
+  "Title": "Softbank Supported DriveWealth Launches 2 Subsidiaries to Enter Crypto Hub"
+},{
+  "_id": {
+    "$oid": "6205674af8061bb9786aacd7"
+  },
+  "Link": "https://insidebitcoins.com/news/bitcoin-price-prediction-btc-usd-swings-above-45000-resistance",
+  "Description": "Bitcoin Price Prediction – February 10 The Bitcoin price prediction shows that BTC continues to face the uptrend after touching the daily low of $43,210. [...]",
+  "Image": "https://insidebitcoins.com/wp-content/uploads/2022/02/BTCUSD_1D_10022022.png",
+  "PubDate": "Thu, 10 Feb 2022 18:01:31 +0000",
+  "Title": "Bitcoin Price Prediction: BTC/USD Swings Above $45,000 Resistance"
+},{
+  "_id": {
+    "$oid": "6205674bf8061bb9786aacd9"
+  },
+  "Link": "https://insidebitcoins.com/news/will-dogecoin-go-up-in-2022",
+  "Description": "From it’s previous all-time high (ATH) of $0.74 in May 2021, Dogecoin has corrected almost 85% to $0.12, before a 25% rally in February 2022 [...]",
+  "Image": "https://insidebitcoins.com/wp-content/uploads/2022/02/will-dogecoin-go-up-in-2022.png",
+  "PubDate": "Thu, 10 Feb 2022 16:47:09 +0000",
+  "Title": "Will Dogecoin go up in 2022? DOGE Price Prediction"
+},{
+  "_id": {
+    "$oid": "6205674cf8061bb9786aacdb"
+  },
+  "Link": "https://insidebitcoins.com/news/harmony-funding-100-daos-with-300m-ecosystem-fund",
+  "Description": "Harmony has set aside a $300M ecosystem fund that will support 100 DAOs. The protocol has already selected the first DAOs that will be allocated [...]",
+  "Image": "https://insidebitcoins.com/wp-content/uploads/2021/08/Harmony-Price-Gains-33.4-to-0.131-–-Where-to-Buy-Harmony.png",
+  "PubDate": "Thu, 10 Feb 2022 14:31:24 +0000",
+  "Title": "Harmony funding 100 DAOs with $300M ecosystem fund"
+},{
+  "_id": {
+    "$oid": "6205674ef8061bb9786aace3"
+  },
+  "Link": "https://insidebitcoins.com/news/lucky-block-marketcap-now-500-million",
+  "Description": "On one of the highest daily volume candles so far, the LBLOCK token price reached a new ATH of $0.0051, up ~100% in the last [...]",
+  "Image": "https://insidebitcoins.com/wp-content/uploads/2022/02/lucky-block-market-cap.png",
+  "PubDate": "Thu, 10 Feb 2022 09:49:10 +0000",
+  "Title": "Lucky Block marketcap now ~$500 million"
+},{
+  "_id": {
+    "$oid": "6205674ff8061bb9786aace5"
+  },
+  "Link": "https://insidebitcoins.com/news/north-korea-refutes-claims-that-it-stole-crypto-to-fund-missile-program",
+  "Description": "The United Nations recently released a report saying North Korea had hacked into cryptocurrency exchanges and stolen $50 million worth of digital assets. North Korea [...]",
+  "Image": "https://insidebitcoins.com/wp-content/uploads/2018/08/North-Korea-65th-Anniversary-640x360.jpg",
+  "PubDate": "Thu, 10 Feb 2022 09:46:50 +0000",
+  "Title": "North Korea refutes claims that it stole crypto to fund missile program"
+},{
+  "_id": {
+    "$oid": "62056750f8061bb9786aace8"
+  },
+  "Link": "https://insidebitcoins.com/news/lucky-block-crypto-lottery-pool-over-2-million",
+  "Description": "Last week we noted the Lucky Block prizepool had reached $1 million in value – that prize pool is now approaching $2.5 million as LBLOCK [...]",
+  "Image": "https://insidebitcoins.com/wp-content/uploads/2022/02/lucky-block-crypto-lottery-pool.png",
+  "PubDate": "Thu, 10 Feb 2022 07:45:35 +0000",
+  "Title": "Lucky Block Lottery Pool near $2.5 million as Token makes new ATH"
+},{
+  "_id": {
+    "$oid": "62056751f8061bb9786aacea"
+  },
+  "Link": "https://insidebitcoins.com/news/coinmarketcap-removes-three-controversial-shib-addresses",
+  "Description": "Reports on Twitter stated that CoinMarketCap had removed three Shib Inu wallet addresses. The three addresses were for Binance Smart Chain (BSC), Solana (SOL) and [...]",
+  "Image": "https://insidebitcoins.com/wp-content/uploads/2022/02/Coinmarketcap.png",
+  "PubDate": "Thu, 10 Feb 2022 07:44:43 +0000",
+  "Title": "CoinMarketCap removes three controversial SHIB addresses"
+},{
+  "_id": {
+    "$oid": "62056752f8061bb9786aacec"
+  },
+  "Link": "https://insidebitcoins.com/news/crypto-com-inks-a-nine-year-deal-with-the-miami-grand-prix",
+  "Description": "Crypto.com continues to push with its heavy investments in the sports sector as a marketing strategy. The exchange has inked a nine-year deal with the [...]",
+  "Image": "https://insidebitcoins.com/wp-content/uploads/2020/08/Crypto-com.png",
+  "PubDate": "Thu, 10 Feb 2022 07:40:41 +0000",
+  "Title": "Crypto.com inks a nine-year deal with the Miami Grand Prix"
+},{
+  "_id": {
+    "$oid": "62056753f8061bb9786aacf0"
+  },
+  "Link": "https://insidebitcoins.com/news/eqonex-unveils-bitcoin-dated-futures-with-physical-settlement",
+  "Description": "Eqonex, a digital asset financial services company listed at NASDAQ, has announced the launch of a new Bitcoin (BTC) investment product. The product will be [...]",
+  "Image": "https://insidebitcoins.com/wp-content/uploads/2022/02/Eqonex.jpg",
+  "PubDate": "Thu, 10 Feb 2022 07:36:49 +0000",
+  "Title": "Eqonex unveils Bitcoin dated futures with physical settlement"
+},{
+  "_id": {
+    "$oid": "62056754f8061bb9786aacf2"
+  },
+  "Link": "https://insidebitcoins.com/news/ethereum-price-prediction-eth-usd-targets-3500-resistance",
+  "Description": "Ethereum Price Prediction – February 9 The Ethereum price prediction needs to pull above the $3200 resistance level to deny the bears the opportunity to [...]",
+  "Image": "https://insidebitcoins.com/wp-content/uploads/2022/02/ETHUSD_08022022.png",
+  "PubDate": "Wed, 09 Feb 2022 22:14:43 +0000",
+  "Title": "Ethereum Price Prediction: ETH/USD Targets $3500 Resistance"
+},{
+  "_id": {
+    "$oid": "62056759f8061bb9786aacf8"
+  },
+  "Link": "https://www.ibm.com/blogs/blockchain/2022/02/digital-transformation-sustainability-ibv/",
+  "Description": "It’s past time for businesses to get serious about their sustainability efforts. Governments, shareholders, employees and consumers all want businesses to make environmental concerns integral to their decision-making. In fact, research from IBM’s Institute for Business Value (IBV) finds that 50% of consumers say they’re willing to pay a premium for sustainable brands. But there’s […]\nThe post Digital transformation can turn sustainability into your winning business strategy appeared first on IBM Supply Chain and Blockchain Blog.\n",
+  "Image": "https://www.ibm.com/blogs/blockchain/wp-content/uploads/2022/02/Supply-chain-truck-checkpoint-scaled.jpg",
+  "PubDate": "Mon, 07 Feb 2022 13:00:47 +0000",
+  "Title": "Digital transformation can turn sustainability into your winning business strategy IBM Supply Chain and Blockchain Blog"
+},{
+  "_id": {
+    "$oid": "6205675bf8061bb9786aacfb"
+  },
+  "Link": "https://www.ibm.com/blogs/blockchain/2022/01/digital-transformation-sustainability/",
+  "Description": "The pandemic-related events of the past two years have people rethinking their sustainability priorities. Governments are issuing regulatory standards. Investors and financial managers are incorporating sustainability criteria in their investment decisions. And customers and employees have become much more environmentally conscious, seeking brands and employers who share their values. Together these forces are shaping a […]\nThe post Four ways digital transformation can help meet sustainability goals appeared first on IBM Supply Chain and Blockchain Blog.\n",
+  "Image": "https://www.ibm.com/blogs/blockchain/wp-content/uploads/2022/01/Sustainability-digital-transformation-leadspace-scaled.jpg",
+  "PubDate": "Mon, 31 Jan 2022 13:00:03 +0000",
+  "Title": "Four ways digital transformation can help meet sustainability goals IBM Supply Chain and Blockchain Blog"
+},{
+  "_id": {
+    "$oid": "6205677bf8061bb9786aad05"
+  },
+  "Link": "https://www.ibm.com/blogs/blockchain/2021/12/blockchain-digital-assets-enterprise/",
+  "Description": "Digital assets have been ubiquitous in the news these days: cryptocurrencies, stablecoins or non-fungible tokens (NFTs), to name a few. Their applications are even more varied, from representing financial instruments to safeguarding authenticity and ownership of digital IP or physical assets. Enterprises that engage in digital assets have significant opportunity to deliver meaningful value to […]\nThe post Take digital assets into the enterprise with blockchain appeared first on IBM Supply Chain and Blockchain Blog.\n",
+  "Image": "https://www.ibm.com/blogs/blockchain/wp-content/uploads/2021/12/Digital-assets-financial-market.jpg",
+  "PubDate": "Thu, 16 Dec 2021 12:55:15 +0000",
+  "Title": "Take digital assets into the enterprise with blockchain IBM Supply Chain and Blockchain Blog"
+},{
+  "_id": {
+    "$oid": "6205677ef8061bb9786aad0b"
+  },
+  "Link": "https://www.ibm.com/blogs/blockchain/2021/12/cyber-week-2021-shopping-analysis/",
+  "Description": "Supply chain chaos did not deter holiday shoppers during Cyber Week, but it did shift shopping patterns and a few long-lived holiday shopping traditions. Black Thursday disappeared… In recent years as Black Friday grew, deep discounts and increased customer demand pushed stores to open earlier and earlier, until eventually they technically opened on Thanksgiving eve, […]\nThe post What really happened with Cyber Week 2021? Analyzing the trends of the year’s biggest shopping week appeared first on IBM Supply Chain and Blockchain Blog.\n",
+  "Image": "https://www.ibm.com/blogs/blockchain/wp-content/uploads/2021/12/Shopping-on-phone-scaled.jpg",
+  "PubDate": "Wed, 08 Dec 2021 14:00:50 +0000",
+  "Title": "What really happened with Cyber Week 2021? Analyzing the trends of the year’s biggest shopping week IBM Supply Chain and Blockchain Blog"
+},{
+  "_id": {
+    "$oid": "6205677ff8061bb9786aad0d"
+  },
+  "Link": "https://www.ibm.com/blogs/blockchain/2021/12/the-internets-next-step-the-era-of-digital-credentials/",
+  "Description": "Imagine being able to rid your wallet of a driver’s license, an insurance card, a student or employee ID and more. Imagine not having to worry about losing your passport and vaccination records on a trip abroad, or about the authenticity of the designer shoes you just purchased. This and much more is possible with […]\nThe post The internet’s next step: The era of digital credentials appeared first on IBM Supply Chain and Blockchain Blog.\n",
+  "Image": "https://www.ibm.com/blogs/blockchain/wp-content/uploads/2021/11/5e4e0b4be722653e57bf1cc5_1582178175-e1638369603901-1024x512.jpg",
+  "PubDate": "Wed, 01 Dec 2021 14:49:56 +0000",
+  "Title": "The internet’s next step: The era of digital credentials IBM Supply Chain and Blockchain Blog"
+},{
+  "_id": {
+    "$oid": "6205677ff8061bb9786aad0f"
+  },
+  "Link": "https://www.ibm.com/blogs/blockchain/2021/11/navigating-the-broader-digital-asset-and-cryptocurrency-markets/",
+  "Description": "The cryptocurrency and broader digital assets evolution has continued to grow in earnest, showing promising signs of maturity through 2021 as industry-wide regulatory bills have reached the Senate floor in Washington D.C. while prices have appreciated to new all-time highs. Although price appreciation tends to lure attention, price has become an increasingly less significant metric […]\nThe post Navigating the broader digital asset and cryptocurrency markets appeared first on IBM Supply Chain and Blockchain Blog.\n",
+  "Image": "https://www.ibm.com/blogs/blockchain/wp-content/uploads/2021/11/a3778ca9-b79b-4c07-bf1f57882aed2aa1-e1637197624368-1024x512.jpg",
+  "PubDate": "Thu, 18 Nov 2021 14:53:28 +0000",
+  "Title": "Navigating the broader digital asset and cryptocurrency markets IBM Supply Chain and Blockchain Blog"
+},{
+  "_id": {
+    "$oid": "62056782f8061bb9786aad11"
+  },
+  "Link": "https://www.ibm.com/blogs/blockchain/2021/11/crowding-into-stores-and-malls-for-black-friday-is-now-a-ghost-of-christmas-past/",
+  "Description": "Vaccinations have been rolled out, lockdowns have been lifted, and workers are returning to offices, but 2021 is starting to feel like 2020 all over again, bah humbug! There is reason to be concerned when consumers are seeing fewer options in the grocery aisles, local shops are closing earlier due to labor shortages, and a […]\nThe post Crowding into stores and malls for Black Friday is now a ghost of Christmas past appeared first on IBM Supply Chain and Blockchain Blog.\n",
+  "Image": "https://www.ibm.com/blogs/blockchain/wp-content/uploads/2021/11/2019_01_31_jamesfamily_80065-e1637103462849-1024x512.jpg",
+  "PubDate": "Wed, 17 Nov 2021 14:43:17 +0000",
+  "Title": "Crowding into stores and malls for Black Friday is now a ghost of Christmas past IBM Supply Chain and Blockchain Blog"
+},{
+  "_id": {
+    "$oid": "62056784f8061bb9786aad15"
+  },
+  "Link": "https://www.ibm.com/blogs/blockchain/2021/11/automating-workplace-vaccination-verification-a-path-out-of-the-pandemic/",
+  "Description": "Workplace vaccination mandates are coming for employers. In the United States, The Department of Labor’s Occupational Safety and Health Administration (OSHA) recently released a rule on requiring all employers with 100 or more employees to ensure their workforce is fully vaccinated or require any workers who remain unvaccinated to produce a negative test result on […]\nThe post Automating workplace vaccination verification — a path out of the pandemic appeared first on IBM Supply Chain and Blockchain Blog.\n",
+  "Image": "https://www.ibm.com/blogs/blockchain/wp-content/uploads/2021/11/160_e39a9159_1604580385-e1636571572800-1024x512.jpg",
+  "PubDate": "Thu, 11 Nov 2021 14:47:08 +0000",
+  "Title": "Automating workplace vaccination verification — a path out of the pandemic IBM Supply Chain and Blockchain Blog"
+},{
+  "_id": {
+    "$oid": "62056786f8061bb9786aad17"
+  },
+  "Link": "https://www.ibm.com/blogs/blockchain/2021/11/tech-is-suffering-from-the-supply-chain-crisis-and-it-is-impacting-everything/",
+  "Description": "While Americans worry about not getting their holiday gifts in time due to the container shipping backlog, they are also quickly finding out that now is not the time to get a new car, personal computer, or kitchen appliance unless they want to pay a hefty price. Try finding a new car, or even a […]\nThe post Tech is suffering from the supply chain crisis, and it is impacting everything appeared first on IBM Supply Chain and Blockchain Blog.\n",
+  "Image": "https://www.ibm.com/blogs/blockchain/wp-content/uploads/2021/11/20210123-a7304084-e1636509246845-1024x512.jpg",
+  "PubDate": "Wed, 10 Nov 2021 14:38:34 +0000",
+  "Title": "Tech is suffering from the supply chain crisis, and it is impacting everything IBM Supply Chain and Blockchain Blog"
+},{
+  "_id": {
+    "$oid": "6205678bf8061bb9786aad20"
+  },
+  "Link": "https://www.btcwires.com/c-buzz/bitcoin-giveaway-crypto-exchange-ftx-making-a-gift-of-btc-throughout-super-bowl/",
+  "Description": "Crypto exchange FTX is making a gift of bitcoin throughout\nThe post Bitcoin Giveaway: Crypto Exchange FTX Making a Gift of BTC Throughout Super Bowl first appeared on BTC Wires.",
+  "Image": "https://www.btcwires.com/wp-content/uploads/2018/07/btcsmall-1-1.png",
+  "PubDate": "Wed, 09 Feb 2022 13:55:57 +0000",
+  "Title": "Successful Beta Service launch of SOMESING, ‘My Hand-Carry Studio Karaoke App’"
+},{
+  "_id": {
+    "$oid": "6205678df8061bb9786aad23"
+  },
+  "Link": "https://www.btcwires.com/c-buzz/tesla-holding-bitcoin-worth-2-billion-sees-crypto-as-both-investment-and-liquid-alternative-to-cash/",
+  "Description": "Elon Musk’s electric car company, Tesla, has filed an annual\nThe post Tesla Holding Bitcoin Worth $2 Billion — Sees Crypto as Both Investment and Liquid Alternative to Cash first appeared on BTC Wires.",
+  "Image": "https://www.btcwires.com/wp-content/uploads/2018/07/btcsmall-1-1.png",
+  "PubDate": "Tue, 08 Feb 2022 11:16:22 +0000",
+  "Title": "Successful Beta Service launch of SOMESING, ‘My Hand-Carry Studio Karaoke App’"
+},{
+  "_id": {
+    "$oid": "62056790f8061bb9786aad26"
+  },
+  "Link": "https://www.btcwires.com/c-buzz/kpmg-in-canada-makes-1st-direct-crypto-investment-adds-bitcoin-ether-to-corporate-treasury/",
+  "Description": "KPMG in Canada has added bitcoin and ether to its\nThe post KPMG in Canada Makes 1st Direct Crypto Investment — Adds Bitcoin, Ether to corporate Treasury first appeared on BTC Wires.",
+  "Image": "https://www.btcwires.com/wp-content/uploads/2018/07/btcsmall-1-1.png",
+  "PubDate": "Tue, 08 Feb 2022 11:14:08 +0000",
+  "Title": "Successful Beta Service launch of SOMESING, ‘My Hand-Carry Studio Karaoke App’"
+},{
+  "_id": {
+    "$oid": "62056792f8061bb9786aad2c"
+  },
+  "Link": "https://www.btcwires.com/c-buzz/us-lawmaker-crypto-assets-are-o-here-to-mention-distributed-portfolios-ought-to-have-crypto-exposure/",
+  "Description": "U.S. legislator Pat Toomey says that crypto assets are here\nThe post US Lawmaker: Crypto Assets are o Here to Mention, Distributed Portfolios ought to Have Crypto Exposure first appeared on BTC Wires.",
+  "Image": "https://www.btcwires.com/wp-content/uploads/2018/07/btcsmall-1-1.png",
+  "PubDate": "Sat, 05 Feb 2022 11:15:55 +0000",
+  "Title": "Successful Beta Service launch of SOMESING, ‘My Hand-Carry Studio Karaoke App’"
+},{
+  "_id": {
+    "$oid": "62056795f8061bb9786aad30"
+  },
+  "Link": "https://www.btcwires.com/c-buzz/jump-crypto-replaces-320-million-in-ethereum-taken-from-wormhole-exploit/",
+  "Description": "On day, 2022, the hollow Network’s ethereum ↔ solana bridge\nThe post Jump Crypto Replaces $320 Million in Ethereum Taken From Wormhole Exploit first appeared on BTC Wires.",
+  "Image": "https://www.btcwires.com/wp-content/uploads/2018/07/btcsmall-1-1.png",
+  "PubDate": "Fri, 04 Feb 2022 16:48:37 +0000",
+  "Title": "Successful Beta Service launch of SOMESING, ‘My Hand-Carry Studio Karaoke App’"
+},{
+  "_id": {
+    "$oid": "62056797f8061bb9786aad34"
+  },
+  "Link": "https://www.btcwires.com/c-buzz/3-6-billion-in-bitcoin-from-the-2016-bitfinex-hack-consolidates-into-one-address/",
+  "Description": "$3.6 billion or 94,643.29 bitcoin stemming from the 2016 Bitfinex\nThe post $3.6 Billion in Bitcoin From the 2016 Bitfinex Hack Consolidates Into one Address first appeared on BTC Wires.",
+  "Image": "https://www.btcwires.com/wp-content/uploads/2018/07/btcsmall-1-1.png",
+  "PubDate": "Fri, 04 Feb 2022 16:43:42 +0000",
+  "Title": "Successful Beta Service launch of SOMESING, ‘My Hand-Carry Studio Karaoke App’"
+},{
+  "_id": {
+    "$oid": "62056798f8061bb9786aad37"
+  },
+  "Link": "https://www.btcwires.com/c-buzz/are-nfts-more-than-just-art/",
+  "Description": " NFTs are the talk of online forums right now and\nThe post Are NFTs More Than Just Art? first appeared on BTC Wires.",
+  "Image": "https://www.btcwires.com/wp-content/uploads/2018/07/btcsmall-1-1.png",
+  "PubDate": "Thu, 03 Feb 2022 14:02:05 +0000",
+  "Title": "Successful Beta Service launch of SOMESING, ‘My Hand-Carry Studio Karaoke App’"
+},{
+  "_id": {
+    "$oid": "6205679af8061bb9786aad39"
+  },
+  "Link": "https://www.btcwires.com/c-buzz/blockchain-software-firm-consensys-acquires-mycrypto-ethereum-wallet/",
+  "Description": "On February 1, the blockchain infrastructure firm Consensys has unconcealed\nThe post Blockchain Software Firm Consensys Acquires Mycrypto Ethereum Wallet first appeared on BTC Wires.",
+  "Image": "https://www.btcwires.com/wp-content/uploads/2018/07/btcsmall-1-1.png",
+  "PubDate": "Thu, 03 Feb 2022 13:51:32 +0000",
+  "Title": "Successful Beta Service launch of SOMESING, ‘My Hand-Carry Studio Karaoke App’"
+},{
+  "_id": {
+    "$oid": "62061d80fb0fcc9b7cf179f0"
+  },
+  "Link": "https://www.coindesk.com/policy/2022/02/09/crypto-advocates-push-back-on-swedens-call-for-eu-mining-ban/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Description": "Regulators are worried renewable energy will be channelled towards crypto mining instead of national grids as EU energy crisis worsens",
+  "Image": "https://www.coindesk.com/resizer/GH7BRq-NRgNJIq3Sonrab3ZaZzU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/RJFNE3WBQ5CHHNH6C5EFW5VU7M.jpg",
+  "PubDate": "Wed, 09 Feb 2022 00:00:00 ",
+  "Title": "Crypto Advocates Push Back on Sweden’s Call for EU Mining Ban"
+},{
+  "_id": {
+    "$oid": "62061d82fb0fcc9b7cf179f3"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/09/bitfinexs-leo-tokens-jump-46-xrp-gains-slightly-in-flat-market/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Description": "Upward movement on the exchange recovery token led gains for investors in an otherwise slow market.",
+  "Image": "https://www.coindesk.com/resizer/lpR3xT9130SLCwAb7aJS-sZSiCo=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/E6OHWKMY3JDHVNKZ4VIAKMRROY.png",
+  "PubDate": "Wed, 09 Feb 2022 00:00:00 ",
+  "Title": "Bitfinex’s LEO Token Jumps 46%, XRP Gains Slightly in Flat Market"
+},{
+  "_id": {
+    "$oid": "62061d83fb0fcc9b7cf179f6"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/09/canadian-crypto-platform-newton-raises-20m-round-at-200m-valuation/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Description": "Canadian wealth and asset management company CI Financial has taken a minority stake in crypto trading platform Newton as part of its $20 million Series B funding round.",
+  "Image": "https://www.coindesk.com/resizer/b4A1lWFEwjMUPL62ugIstbgr0Gs=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/M4BLXRXJGVB4FD65VV4JSLNERE.jpg",
+  "PubDate": "Wed, 09 Feb 2022 00:00:00 ",
+  "Title": "Canadian Crypto Platform Newton Raises $20M Round at $200M Valuation"
+},{
+  "_id": {
+    "$oid": "62061d85fb0fcc9b7cf179f8"
+  },
+  "Link": "https://www.coindesk.com/layer2/2022/02/09/are-current-ethereum-layer-2-networks-cheap-enough/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Description": "Rollups have seen significant adoption and are highlighting the demand for cheaper access to Ethereum.",
+  "Image": "https://www.coindesk.com/resizer/6B7NXqZ6u9f5Px1qYathoC7xOvk=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/UR2NI2T3RNAIBHFE26T34FQW5Y.jpg",
+  "PubDate": "Wed, 09 Feb 2022 00:00:00 ",
+  "Title": "Are Current Ethereum Layer 2 Networks Cheap Enough?"
+},{
+  "_id": {
+    "$oid": "62061d88fb0fcc9b7cf179fe"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/09/abu-dhabi-trading-firm-hayvn-in-talks-for-30m-series-b-eyes-ipo-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Description": "Hayvn, an Abu Dhabi-based crypto trading firm, is courting institutional investors for a Series B round with a view to eventually list, Reuters reported on Wednesday.",
+  "Image": "https://www.coindesk.com/resizer/76jXnMz4sbSsSKCmN9_o9YtkFCI=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/A54WV5JNNVB2FDB26ZIM5I3M3A.jpg",
+  "PubDate": "Wed, 09 Feb 2022 00:00:00 ",
+  "Title": "Abu Dhabi Trading Firm Hayvn in Talks for $30M Series B, Eyes IPO: Report"
+},{
+  "_id": {
+    "$oid": "62061d8afb0fcc9b7cf17a09"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/09/crypto-mining-data-center-provider-compute-north-raises-385m/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Description": "The company raised $85 million in an equity round and $300 million in debt financing.",
+  "Image": "https://www.coindesk.com/resizer/3LnPmWuphgrgk6EpRh0f3sz4DaU=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/7N3ZWHUWTJB4TB74PL437EBURM.jpg",
+  "PubDate": "Wed, 09 Feb 2022 00:00:00 ",
+  "Title": "Crypto Mining Data Center Provider Compute North Raises $385M"
+},{
+  "_id": {
+    "$oid": "62061d8cfb0fcc9b7cf17a0c"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/09/animoca-in-talks-for-infusion-from-kkr-as-funding-round-swells-to-500m-report/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Description": "Global investment company KKR is in talks to join Animoca Brands' latest financing, taking its funding from the round to around $500 million.",
+  "Image": "https://www.coindesk.com/resizer/zSYgWAdXS5DiDME0-9O7jK11jDA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/L4KQXONAQZFKNKT2R24NC2W5T4.jpeg",
+  "PubDate": "Wed, 09 Feb 2022 00:00:00 ",
+  "Title": "Animoca in Talks for Infusion From KKR as Funding Round Swells to $500M: Report"
+},{
+  "_id": {
+    "$oid": "62061d8ffb0fcc9b7cf17a12"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/09/bofa-says-bitcoin-trades-more-as-risk-asset-less-as-inflation-hedge/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Description": "Bitcoin's volatile price means it is unlikely to be adopted as an inflation hedge by investors in developed countries.",
+  "Image": "https://www.coindesk.com/resizer/QPh9AUZdyOltjdjjB86A9UxupWQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/35ANPZQHRZC7TOYXFBE5ZSNXCA.jpg",
+  "PubDate": "Wed, 09 Feb 2022 00:00:00 ",
+  "Title": "BofA Says Bitcoin Trades More as Risk Asset, Less as Inflation Hedge"
+},{
+  "_id": {
+    "$oid": "62061d90fb0fcc9b7cf17a18"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/09/bitcoin-miners-offloaded-holdings-as-prices-dropped-to-33k/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Description": "Miners sold their bitcoin holders as prices of the asset fell last month, data showed.",
+  "Image": "https://www.coindesk.com/resizer/as--RQmTPC9nVTepvMl5yeD7FGA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/GSWRDQAFBBF7LHQUVVXK4EFDSE.png",
+  "PubDate": "Wed, 09 Feb 2022 00:00:00 ",
+  "Title": "Bitcoin Miners Offloaded Holdings as Prices Dropped to $33K"
+},{
+  "_id": {
+    "$oid": "62061d93fb0fcc9b7cf17a35"
+  },
+  "Link": "https://www.coindesk.com/policy/2022/02/09/russia-to-license-crypto-exchanges-tax-large-transactions/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Description": "Russian government bodies agreed on the future regulation of cryptocurrencies, and this time the central bank is on board.",
+  "Image": "https://www.coindesk.com/resizer/2e7aZ0V95p7ZF-1092Q_d3TFWyw=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/QIZE6IRZLNCCNARVXHIRGOAROA.jpg",
+  "PubDate": "Wed, 09 Feb 2022 00:00:00 ",
+  "Title": "Russia to Regulate Crypto, Dispelling Fears of Ban"
+},{
+  "_id": {
+    "$oid": "62061d95fb0fcc9b7cf17a44"
+  },
+  "Link": "https://www.coindesk.com/markets/2022/02/09/shiba-inu-enters-the-metaverse-with-shiba-lands-leash-rockets-40/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Description": "Prices of Leash, a Shiba Inu ecosystem token, were up nearly 50% following the announcement.",
+  "Image": "https://www.coindesk.com/resizer/cJZTpi5rLVjJGPGZReMimAx7XXQ=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/KM4CQI7TYJACRJTER72LH5LRZA.jpg",
+  "PubDate": "Wed, 09 Feb 2022 00:00:00 ",
+  "Title": "Shiba Inu Enters Metaverse With 'Shiba Lands,' LEASH Rockets 40%"
+},{
+  "_id": {
+    "$oid": "62061d97fb0fcc9b7cf17a4c"
+  },
+  "Link": "https://www.coindesk.com/policy/2022/02/09/crypto-analytics-tools-wave-of-the-future-dude-judge-quotes-cult-film-in-36b-bitcoin-seizure-case/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Description": "A newly unsealed federal court opinion emphasized the role blockchain analytics played in helping law enforcement agents find and confiscate some 94,000 bitcoin stolen from Bitfinex.",
+  "Image": "https://www.coindesk.com/resizer/t-_Azz6FTkq-cXWO3lHxtQqvkyA=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/4IMV7MUBXBB3RK4I5SEEXZVFRA.jpg",
+  "PubDate": "Wed, 09 Feb 2022 00:00:00 ",
+  "Title": "Crypto Analytics Tools 'Wave of the Future, Dude,' Judge Quotes Cult Film in $3.6B Bitcoin Seizure Case"
+},{
+  "_id": {
+    "$oid": "62061d99fb0fcc9b7cf17a4f"
+  },
+  "Link": "https://www.coindesk.com/business/2022/02/09/infinity-ventures-crypto-closes-70m-fund/?utm_medium=referral&utm_source=rss&utm_campaign=headlines",
+  "Description": "IVC wants to bridge the east and west in Web 3 without getting too big and bulky, says partner Brian Lu.",
+  "Image": "https://www.coindesk.com/resizer/PHNHP-rQzXV9p8LrFacNXxlGR9M=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/BZJGY3STXRCAXHAHVC24CKXGNE.png",
+  "PubDate": "Wed, 09 Feb 2022 00:00:00 ",
+  "Title": "Infinity Ventures Crypto Closes $70M Fund"
+},{
+  "_id": {
+    "$oid": "62061de2fb0fcc9b7cf17aae"
+  },
+  "Link": "https://news.bitcoin.com/topps-plans-to-auction-rare-1952-mickey-mantle-nft-card-minted-on-ethereum/",
+  "Description": "The American firm that produces Bazooka chewing gum, candy, and collectibles, Topps has announced the company is planning to auction one of the rarest baseball cards on earth in NFT form — Topps 1952 Mickey Mantle card. The Topps 1 of 1 “Timeless Collectible” will be issued as a non-fungible token (NFT) and sold on […]",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/mickeycardss.jpg",
+  "PubDate": "Fri, 11 Feb 2022 08:00:41 +0000",
+  "Title": "Topps Plans to Auction Rare 1952 Mickey Mantle NFT Card Minted on Ethereum – Bitcoin News"
+},{
+  "_id": {
+    "$oid": "62061de2fb0fcc9b7cf17ab0"
+  },
+  "Link": "https://news.bitcoin.com/binance-invests-200-million-into-the-business-magazine-and-digital-publisher-forbes/",
+  "Description": "Reports indicate that the world’s largest cryptocurrency exchange by trade volume, Binance, has announced the crypto company has committed to investing $200 million into the American business magazine Forbes. The digital currency company Binance confirmed the $200 million stake into Forbes on the social media platform Twitter. Binance Pledges $200 Million to Forbes Binance has […]",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/shutterstock_1181057251.jpg",
+  "PubDate": "Fri, 11 Feb 2022 06:30:29 +0000",
+  "Title": "Binance Invests $200 Million Into the Business Magazine and Digital Publisher Forbes – Bitcoin News"
+},{
+  "_id": {
+    "$oid": "62061de4fb0fcc9b7cf17ab3"
+  },
+  "Link": "https://news.bitcoin.com/global-pets-world-a-world-first-experience-for-pet-owners-in-the-real-world-and-the-metaverse/",
+  "Description": "PRESS RELEASE. For many pet owners, owning a pet is akin to having a child. They consider the pets as family members, and these family members deserve to be entertained and pampered. Global Pets World Holdings, a wholly owned subsidiary of WisdomCome Group, in collaboration with Ammbr Group, will be launching the world’s first global […]",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/unnamed-6.jpg",
+  "PubDate": "Fri, 11 Feb 2022 06:00:00 +0000",
+  "Title": "Global Pets World: An Experience for Pet Owners in the Real World and the Metaverse – Press release Bitcoin News"
+},{
+  "_id": {
+    "$oid": "62061de4fb0fcc9b7cf17ab5"
+  },
+  "Link": "https://news.bitcoin.com/global-regulators-full-steam-on-crypto-current-structure-no-longer-fit-for-the-purpose/",
+  "Description": "Global regulators are “going full steam” on cryptocurrency regulation. “The current structure is no longer fit for the purpose with the development of cross-border digital market activities,” said the chairman of France’s markets watchdog AMF. Global Regulators Going Full Steam on Cryptocurrency Regulation Robert Ophèle, chairman of France’s markets watchdog, the Autorité des marchés financiers […]",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/fsb.jpg",
+  "PubDate": "Fri, 11 Feb 2022 04:30:15 +0000",
+  "Title": "Global Regulators 'Going Full Steam' on Crypto — Official Says 'Current Structure Is No Longer Fit for the Purpose' – Regulation Bitcoin News"
+},{
+  "_id": {
+    "$oid": "62061de6fb0fcc9b7cf17ab8"
+  },
+  "Link": "https://news.bitcoin.com/fintech-specialists-predict-ethereum-price-hitting-6500-this-year-26338-2030/",
+  "Description": "A panel of fintech specialists has predicted that the price of ethereum will reach $6,500 by year-end. It will then rise to $10,810 by 2025 before more than doubling to $26,338 by 2030. Fintech Specialists Share Ether Forecasts Price comparison portal Finder updated its price predictions for ether (ETH) Tuesday. The company detailed: Ethereum (ETH) […]",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/finders.jpg",
+  "PubDate": "Fri, 11 Feb 2022 02:30:49 +0000",
+  "Title": "Fintech Specialists Predict Ethereum Price Hitting $6,500 This Year Before Rising to $26,338 by 2030 – Markets and Prices Bitcoin News"
+},{
+  "_id": {
+    "$oid": "62061de6fb0fcc9b7cf17aba"
+  },
+  "Link": "https://news.bitcoin.com/jpmorgan-predicts-long-term-bitcoin-price-150k-challenges/",
+  "Description": "Global investment bank JPMorgan has predicted that the long-term price of bitcoin will reach $150K while the fair value of the cryptocurrency sits at $38K. “The biggest challenge for bitcoin going forward is its volatility and the boom and bust cycles that hinder further institutional adoption,” JPMorgan’s analysts explained. JPMorgan’s Bitcoin Price Prediction Global investment […]",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/jpmorgan.jpg",
+  "PubDate": "Fri, 11 Feb 2022 00:30:26 +0000",
+  "Title": "JPMorgan Predicts Long-Term Bitcoin Price of $150K — Outlines Challenges Ahead – Markets and Prices Bitcoin News"
+},{
+  "_id": {
+    "$oid": "62061de8fb0fcc9b7cf17abc"
+  },
+  "Link": "https://news.bitcoin.com/fitch-ratings-downgrades-el-salvador-deeper-into-junk-status-bitcoin-risks/",
+  "Description": "One of the largest rating agencies in the U.S., Fitch Ratings, has downgraded El Salvador’s long-term default rating deeper into junk status, citing risks from adopting bitcoin as legal tender as a key reason. “The adoption of bitcoin as legal tender has added uncertainty about the potential for an IMF program that would unlock financing […]",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/el-salvador-1.jpg",
+  "PubDate": "Thu, 10 Feb 2022 22:30:55 +0000",
+  "Title": "Fitch Ratings Downgrades El Salvador Deeper Into Junk Status Citing Bitcoin Risks – Finance Bitcoin News"
+},{
+  "_id": {
+    "$oid": "62061de9fb0fcc9b7cf17abe"
+  },
+  "Link": "https://news.bitcoin.com/lbank-exchange-will-list-lucky-block-lblock-on-february-11-2022/",
+  "Description": "PRESS RELEASE. INTERNET CITY, DUBAI, Feb. 10, 2022, ZEXPRWIRE – LBank Exchange, a global digital asset trading platform, will list Lucky Block (LBLOCK) on February 11, 2022. For all users of LBank Exchange, the LBLOCK/USDT trading pair will be officially available for trading at 18:00 (UTC+8) on February 11, 2022. The lottery has thousands of […]",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/img_20220211_074831_225.jpg",
+  "PubDate": "Thu, 10 Feb 2022 22:00:14 +0000",
+  "Title": "LBank Exchange Will List Lucky Block (LBLOCK) on February 11, 2022 – Press release Bitcoin News"
+},{
+  "_id": {
+    "$oid": "62061deafb0fcc9b7cf17ac1"
+  },
+  "Link": "https://news.bitcoin.com/city-of-miami-gets-5-25m-disbursement-from-miamicoin-as-mia-flounders-88-lower-than-price-high/",
+  "Description": "While Miami’s mayor Francis Suarez told the public he was a big believer in bitcoin and has accepted his pay in bitcoin, at the same time, a crypto coin called miamicoin (MIA) was launched. The Miamicoin project’s goal was to give Miami’s “citizens and supporters the power to support, improve and program the Magic City.” […]",
+  "Image": "https://static.news.bitcoin.com/wp-content/uploads/2022/02/image-2022-02-10-095639.jpg",
+  "PubDate": "Thu, 10 Feb 2022 20:00:25 +0000",
+  "Title": "City of Miami Gets $5.25M Disbursement From Miamicoin as MIA Flounders 88% Lower Than Price High – Altcoins Bitcoin News"
+},{
+  "_id": {
+    "$oid": "62061e10fb0fcc9b7cf17ae3"
+  },
+  "Link": "https://blog.coinfund.io/community-gaming-is-onboarding-gaming-enthusiasts-for-the-cryptonative-future-of-interactive-2ce436296f97?source=rss----f5f136d48fc3---4",
+  "Description": "LEO fell for a second consecutive session, as crypto markets traded with higher levels of volatility on Thursday. THETA ignored this uncertainty and climbed by close to 20% today. Biggest gainers Following turbulence during today’s trading session, the global cryptocurrency market capitalisation was able to climb, and was around 1% higher as of writing. . […]",
+  "Image": "https://miro.medium.com/max/1200/1*y3wUrMRx9q3-LvdqnQu14A.png",
+  "PubDate": "Thu, 01 Jul 2021 12:58:36 +0000",
+  "Title": "Community Gaming is onboarding gaming enthusiasts for the cryptonative future of interactive entertainment"
+},{
+  "_id": {
+    "$oid": "62061e14fb0fcc9b7cf17ae8"
+  },
+  "Link": "https://blog.coinfund.io/moonbeams-interoperability-and-compatibility-will-drive-the-next-wave-of-application-development-6717152621a6?source=rss----f5f136d48fc3---4",
+  "Description": "LEO fell for a second consecutive session, as crypto markets traded with higher levels of volatility on Thursday. THETA ignored this uncertainty and climbed by close to 20% today. Biggest gainers Following turbulence during today’s trading session, the global cryptocurrency market capitalisation was able to climb, and was around 1% higher as of writing. . […]",
+  "Image": "https://miro.medium.com/max/1200/1*7ZANrQyi4PDmveTUgIMwrA.png",
+  "PubDate": "Wed, 30 Jun 2021 13:58:38 +0000",
+  "Title": "Moonbeam’s interoperability and compatibility will drive the next wave of application development and user growth"
+},{
+  "_id": {
+    "$oid": "62061e3bfb0fcc9b7cf17b04"
+  },
+  "Link": "https://101blockchains.com/business-opportunities-in-metaverse/",
+  "Description": "Innovation in technology is one of the formidable aspects of supporting business leaders in developing new products or business transformations. The metaverse has evolved as a prolific technology innovation that can fuel many strategic business opportunities. The search for metaverse business opportunities has escalated profoundly after the involvement of big companies in metaverse projects became [...]\nThe post 5 Profitable Business Opportunities in Metaverse appeared first on 101 Blockchains.\n",
+  "Image": "https://101blockchains.com/wp-content/uploads/2022/02/business-opportunities-in-metaverse-1-1.jpg",
+  "PubDate": "Fri, 11 Feb 2022 04:05:39 +0000",
+  "Title": "5 Profitable Business Opportunities in Metaverse"
+},{
+  "_id": {
+    "$oid": "62061e3cfb0fcc9b7cf17b06"
+  },
+  "Link": "https://101blockchains.com/solana-vs-polygon-vs-ethereum/",
+  "Description": "Want to know which blockchain platform will be the best option for the development purpose? This detailed comparison of Solana vs Polygon vs Ethereum will help you make the right choice. A few years ago, no one would have imagined how blockchain and cryptocurrency would change the world. Today, we witness new business models emerging [...]\nThe post Solana vs Polygon vs Ethereum – A Detailed Comparison appeared first on 101 Blockchains.\n",
+  "Image": "https://101blockchains.com/wp-content/uploads/2022/02/solana-vs-polygon-vs-ethereum.png",
+  "PubDate": "Fri, 11 Feb 2022 04:01:37 +0000",
+  "Title": "Solana vs Polygon vs Ethereum – A Detailed Comparison"
+},{
+  "_id": {
+    "$oid": "62061e59fb0fcc9b7cf17b2e"
+  },
+  "Link": "https://insidebitcoins.com/news/litecoin-price-prediction-ltc-usd-drops-below-130-as-price-heads-downward",
+  "Description": "Litecoin Price Prediction – February 11 The Litecoin price prediction moves to cross below the 9-day moving average following the current bearish action in the [...]",
+  "Image": "https://insidebitcoins.com/wp-content/uploads/2022/02/LTCUSD_10022022.png",
+  "PubDate": "Fri, 11 Feb 2022 08:20:08 +0000",
+  "Title": "Litecoin Price Prediction: LTC/USD Drops Below $130 as Price Heads Downward"
+},{
+  "_id": {
+    "$oid": "62061e5afb0fcc9b7cf17b30"
+  },
+  "Link": "https://insidebitcoins.com/news/bitcoin-btc-price-prediction-btc-usd-struggles-below-45k-as-bitcoin-risks-decline-below-42k",
+  "Description": "BTC Price Trades in a Range as Bitcoin Risks Decline below $42K- February 10, 2022 BTC/USD is declining after buyers failed to break the resistance [...]",
+  "Image": "https://insidebitcoins.com/wp-content/uploads/2022/02/BTCUSDDaily-Chart-FEB.-10.png",
+  "PubDate": "Thu, 10 Feb 2022 21:47:54 +0000",
+  "Title": "Bitcoin Price Prediction: BTC under $45K, risks fall below $42K"
+},{
+  "_id": {
+    "$oid": "62061e5bfb0fcc9b7cf17b32"
+  },
+  "Link": "https://insidebitcoins.com/news/5-best-penny-altcoins-for-big-profits-february-2022",
+  "Description": "The crypto market is on the rise once more, and as always, premier digital asset Bitcoin is leading the rally. Alternative currencies (altcoins) are also [...]",
+  "Image": "https://insidebitcoins.com/wp-content/uploads/2022/02/Alt-coins-to-buy.jpg",
+  "PubDate": "Thu, 10 Feb 2022 19:53:43 +0000",
+  "Title": "5 Best Penny Altcoins for Big Profits"
+}]
